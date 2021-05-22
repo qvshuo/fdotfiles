@@ -1,0 +1,8 @@
+[Unit]
+Description=A continuous file synchronization program.
+
+[Service]
+ExecStart=/usr/bin/syncthing
+
+[Install]
+WantedBy=default.target

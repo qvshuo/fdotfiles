@@ -1,0 +1,5 @@
+# 导入词库
+# https://github.com/felixonmars/fcitx5-pinyin-zhwiki/releases
+
+patch:
+  translator/dictionary: luna_pinyin.extended

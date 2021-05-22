@@ -1,0 +1,8 @@
+[Unit]
+Description=A rule-based tunnel in Go.
+
+[Service]
+ExecStart=/usr/bin/clash
+
+[Install]
+WantedBy=default.target
