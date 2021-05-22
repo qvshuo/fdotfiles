@@ -14,4 +14,3 @@ Terminal=false
 StartupNotify=true
 StartupWMClass=netease-cloud-music
 MimeType=audio/aac;audio/flac;audio/mp3;audio/mp4;audio/mpeg;audio/ogg;audio/x-ape;audio/x-flac;audio/x-mp3;audio/x-mpeg;audio/x-ms-wma;audio/x-vorbis;audio/x-vorbis+ogg;audio/x-wav;
-X-Flatpak=com.netease.CloudMusic
