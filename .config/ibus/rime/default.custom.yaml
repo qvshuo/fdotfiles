@@ -1,10 +1,16 @@
+# https://github.com/gkovacs/rime-japanese
+
 patch:
 
+# 输入方案
   schema_list:
     - schema: pinyin_simp
+    - schema: japanese
 
+# 候选字数
   menu/page_size: 7
 
+# 按键上屏
   ascii_composer:
     good_old_caps_lock: true
     switch_key:
