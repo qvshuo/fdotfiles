@@ -1,2 +1,2 @@
-# fdotfiles
-dotfiles for fedora.
+# ndotfiles
+dotfiles for NixOS.
