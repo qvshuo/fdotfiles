@@ -4,7 +4,7 @@ patch:
 
 # 输入方案
   schema_list:
-    - schema: pinyin_simp
+    - schema: luna_pinyin_simp
     - schema: japanese
 
 # 候选字数
@@ -14,7 +14,7 @@ patch:
   ascii_composer:
     good_old_caps_lock: true
     switch_key:
-      Caps_Lock: "clear"
+      Caps_Lock: "inline_ascii"
       Shift_L: "commit_code"
       Shift_R: "commit_code"
       Control_L: "noop"

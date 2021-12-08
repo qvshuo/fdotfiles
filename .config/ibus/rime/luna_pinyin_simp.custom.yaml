@@ -1,0 +1,10 @@
+patch:
+
+# 拓展词库
+  translator:
+      dictionary: luna_pinyin_simp.extended
+
+# 关闭笔画反查
+recognizer:
+  patterns:
+    reverse_lookup:
