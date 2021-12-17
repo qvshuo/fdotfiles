@@ -10,6 +10,7 @@
 阿渤 a'bo
 阿波卡利斯 a'bo'ka'li'si
 阿波连 a'bo'lian
+阿波舞 a'bo'wu
 阿不都沙拉木 a'bu'dou'sha'la'mu
 阿部宽 a'bu'kuan
 阿布拉莫维奇 a'bu'la'mo'wei'qi
@@ -51,6 +52,7 @@
 阿护 a'hu
 阿化 a'hua
 阿怀 a'huai
+阿基蕾拉 a'ji'lei'la
 阿金斯 a'jin'si
 阿卡多 a'ka'duo
 阿坎吉 a'kan'ji
@@ -152,6 +154,7 @@
 埃比 ai'bi
 爱币 ai'bi
 艾彼 ai'bi
+埃博拉前线 ai'bo'la'qian'xian
 挨不得 ai'bu'de
 爱不过期 ai'bu'guo'qi
 爱不会绝迹 ai'bu'hui'jue'ji
@@ -252,6 +255,7 @@
 矮脚马 ai'jiao'ma
 爱较真 ai'jiao'zhen
 艾杰西 ai'jie'xi
+艾今 ai'jin
 爱警 ai'jing
 艾景初 ai'jing'chu
 爱警惠警 ai'jing'hui'jing
@@ -676,6 +680,7 @@
 澳门回归 ao'men'hui'gui
 澳门金沙 ao'men'jin'sha
 澳门人家 ao'men'ren'jia
+奥密 ao'mi
 奥米加兽 ao'mi'jia'shou
 奥密克戎 ao'mi'ke'rong
 奥蜜思 ao'mi'si
@@ -691,6 +696,7 @@
 奥赛尔 ao'sai'er
 嗷闪 ao'shan
 奥斯塔 ao'si'ta
+奥索拉 ao'suo'la
 奥塔门迪 ao'ta'men'di
 奥特银河格斗 ao'te'yin'he'ge'dou
 奥屯 ao'tun
@@ -759,6 +765,7 @@
 拔步床 ba'bu'chuang
 八步沙 ba'bu'sha
 八才 ba'cai
+拔草龙 ba'cao'long
 八尺大人 ba'chi'da'ren
 八尺琼勾玉 ba'chi'qiong'gou'yu
 八重村 ba'chong'cun
@@ -908,6 +915,7 @@
 八十多岁 ba'shi'duo'sui
 八十多天 ba'shi'duo'tian
 八十二天 ba'shi'er'tian
+拔叔 ba'shu
 巴舒亚伊 ba'shu'ya'yi
 巴蜀中学 ba'shu'zhong'xue
 巴斯达 ba'si'da
@@ -1168,6 +1176,7 @@
 拜了个年 bai'le'ge'nian
 百里二郎 bai'li'er'lang
 百里弘毅 bai'li'hong'yi
+百里延 bai'li'yan
 百炼成仙 bai'lian'cheng'xian
 柏麟 bai'lin
 白磷弹 bai'lin'dan
@@ -1187,6 +1196,7 @@
 百貌 bai'mao
 白猫师尊 bai'mao'shi'zun
 百魅 bai'mei
+白媚生 bai'mei'sheng
 白门楼 bai'men'lou
 白梦妍 bai'meng'yan
 百米记录 bai'mi'ji'lu
@@ -1238,6 +1248,7 @@
 白如玉 bai'ru'yu
 白蕊儿 bai'rui'er
 白蕊姬 bai'rui'ji
+白色季节 bai'se'ji'jie
 白色情人 bai'se'qing'ren
 白色死神 bai'se'si'shen
 白色月光 bai'se'yue'guang
@@ -1348,6 +1359,8 @@
 白衣山猫 bai'yi'shan'mao
 白衣卫士 bai'yi'wei'shi
 百亿项目 bai'yi'xiang'mu
+白银有色 bai'yin'you'se
+白瀛 bai'ying
 白缨枪 bai'ying'qiang
 白应鑫 bai'ying'xin
 白营镇 bai'ying'zhen
@@ -1460,6 +1473,7 @@
 板栗头 ban'li'tou
 板栗粽 ban'li'zong
 半路父子 ban'lu'fu'zi
+斑马邦 ban'ma'bang
 斑马森林 ban'ma'sen'lin
 板门店 ban'men'dian
 伴梦 ban'meng
@@ -1547,6 +1561,7 @@
 绑架案 bang'jia'an
 帮家里人 bang'jia'li'ren
 绑架游戏 bang'jia'you'xi
+邦交国 bang'jiao'guo
 邦克山 bang'ke'shan
 帮忙点个赞 bang'mang'dian'ge'zan
 帮忙点下 bang'mang'dian'xia
@@ -1582,6 +1597,7 @@
 邦讯技术 bang'xun'ji'shu
 邦彦 bang'yan
 榜样的力量 bang'yang'de'li'liang
+榜样六 bang'yang'liu
 榜样示范 bang'yang'shi'fan
 榜样阅读 bang'yang'yue'du
 榜一 bang'yi
@@ -1794,6 +1810,7 @@
 爆胎草莓粥 bao'tai'cao'mei'zhou
 包汤圆 bao'tang'yuan
 宝特瓶 bao'te'ping
+爆甜 bao'tian
 暴调 bao'tiao
 宝通科技 bao'tong'ke'ji
 抱团养老 bao'tuan'yang'lao
@@ -1867,6 +1884,7 @@
 北川景子 bei'chuan'jing'zi
 贝茨 bei'ci
 贝茨旅馆 bei'ci'lv'guan
+北村谅 bei'cun'liang
 北大班 bei'da'ban
 北大还行 bei'da'hai'xing
 背打直 bei'da'zhi
@@ -2299,6 +2317,7 @@
 编辑记录 bian'ji'ji'lu
 编辑资料 bian'ji'zi'liao
 边疆稳定 bian'jiang'wen'ding
+边角边 bian'jiao'bian
 边杰 bian'jie
 边界感 bian'jie'gan
 变节者 bian'jie'zhe
@@ -2334,6 +2353,7 @@
 变异者 bian'yi'zhe
 变蝇人 bian'ying'ren
 边域 bian'yu
+卞玉京 bian'yu'jing
 边域之城 bian'yu'zhi'cheng
 变圆 bian'yuan
 边缘日记 bian'yuan'ri'ji
@@ -2370,6 +2390,7 @@
 别逼我结婚 bie'bi'wo'jie'hun
 别必雄 bie'bi'xiong
 别不识抬举 bie'bu'shi'tai'ju
+别踩白块 bie'cai'bai'kuai
 别成 bie'cheng
 别吃坏 bie'chi'huai
 别吃肉 bie'chi'rou
@@ -2565,6 +2586,7 @@
 冰之大剑 bing'zhi'da'jian
 冰之律者 bing'zhi'lv'zhe
 病字旁 bing'zi'pang
+博奥路 bo'ao'lu
 博鳌论坛 bo'ao'lun'tan
 博奥尼 bo'ao'ni
 博鳌亚洲 bo'ao'ya'zhou
@@ -3054,6 +3076,7 @@
 不可交易 bu'ke'jiao'yi
 不可能不知道 bu'ke'neng'bu'zhi'dao
 不可配送 bu'ke'pei'song
+不可取消 bu'ke'qu'xiao
 不可饶恕咒 bu'ke'rao'shu'zhou
 不可售 bu'ke'shou
 布克斯 bu'ke'si
@@ -3255,6 +3278,7 @@
 不入爱河 bu'ru'ai'he
 不如不见 bu'ru'bu'jian
 不如复合 bu'ru'fu'he
+不如怀念 bu'ru'huai'nian
 不如一见 bu'ru'yi'jian
 布瑞吉 bu'rui'ji
 补三天 bu'san'tian
@@ -3621,6 +3645,7 @@
 才到屋 cai'dao'wu
 踩灯 cai'deng
 踩凳子 cai'deng'zi
+踩地神 cai'di'shen
 彩店 cai'dian
 蔡丁 cai'ding
 彩独 cai'du
@@ -3686,6 +3711,7 @@
 采棉花 cai'mian'hua
 蔡明老师 cai'ming'lao'shi
 蔡明园 cai'ming'yuan
+蔡某某 cai'mou'mou
 菜奈 cai'nai
 才能进步 cai'neng'jin'bu
 彩排时间 cai'pai'shi'jian
@@ -3852,6 +3878,7 @@
 草莓公主 cao'mei'gong'zhu
 草莓花束 cao'mei'hua'shu
 草莓棉花糖 cao'mei'mian'hua'tang
+草莓炸弹 cao'mei'zha'dan
 糙米水 cao'mi'shui
 糙面云 cao'mian'yun
 草蘑 cao'mo
@@ -3929,6 +3956,7 @@
 蹭别人 ceng'bie'ren
 曾春蕾 ceng'chun'lei
 曾经你说 ceng'jing'ni'shuo
+曾经相爱 ceng'jing'xiang'ai
 蹭空调 ceng'kong'tiao
 曾梦雪 ceng'meng'xue
 插艾草 cha'ai'cao
@@ -4261,6 +4289,7 @@
 超级女孩 chao'ji'nv'hai
 超级泡泡 chao'ji'pao'pao
 超级骑士 chao'ji'qi'shi
+超级人类 chao'ji'ren'lei
 超级闪充 chao'ji'shan'chong
 超级糖果 chao'ji'tang'guo
 超级兔子 chao'ji'tu'zi
@@ -4441,6 +4470,7 @@
 陈靖川 chen'jing'chuan
 陈景河 chen'jing'he
 陈镜开 chen'jing'kai
+陈靖康 chen'jing'kang
 陈觉 chen'jue
 陈君何 chen'jun'he
 陈俊洁 chen'jun'jie
@@ -4455,6 +4485,7 @@
 陈林坚 chen'lin'jian
 陈令韬 chen'ling'tao
 陈龙野 chen'long'ye
+陈路周 chen'lu'zhou
 沉沦世俗 chen'lun'shi'su
 陈萝莉 chen'luo'li
 陈美惠 chen'mei'hui
@@ -4508,6 +4539,7 @@
 陈姝君 chen'shu'jun
 陈树生 chen'shu'sheng
 沉睡的魔咒 chen'shui'de'mo'zhou
+沉睡花园 chen'shui'hua'yuan
 陈硕子 chen'shuo'zi
 陈思卉 chen'si'hui
 陈思建 chen'si'jian
@@ -4539,6 +4571,7 @@
 陈瞎子 chen'xia'zi
 陈香菱 chen'xiang'ling
 陈祥龙 chen'xiang'long
+陈祥榕 chen'xiang'rong
 沉香如屑 chen'xiang'ru'xie
 晨小晨 chen'xiao'chen
 陈小鲁 chen'xiao'lu
@@ -4595,6 +4628,7 @@
 陈仲伟 chen'zhong'wei
 陈竺 chen'zhu
 陈卓旋 chen'zhuo'xuan
+沉着应对 chen'zhuo'ying'dui
 辰子安 chen'zi'an
 陈梓铭 chen'zi'ming
 陈子由 chen'zi'you
@@ -4732,6 +4766,7 @@
 诚信友善 cheng'xin'you'shan
 橙心优选 cheng'xin'you'xuan
 丞星 cheng'xing
+城星路 cheng'xing'lu
 承铉 cheng'xuan
 程亚楠 cheng'ya'nan
 澄阳湖 cheng'yang'hu
@@ -4816,6 +4851,7 @@
 吃鸡舞 chi'ji'wu
 吃鸡摇 chi'ji'yao
 赤酱 chi'jiang
+赤角 chi'jiao
 赤脚追光 chi'jiao'zhui'guang
 吃饺子不 chi'jiao'zi'bu
 吃饺子了吗 chi'jiao'zi'le'ma
@@ -4910,6 +4946,7 @@
 赤血刀 chi'xue'dao
 赤鸦 chi'ya
 池炎 chi'yan
+池焰 chi'yan
 赤宴 chi'yan
 赤焰兽 chi'yan'shou
 赤焰妖 chi'yan'yao
@@ -5313,6 +5350,7 @@
 出征服 chu'zheng'fu
 出征仪式 chu'zheng'yi'shi
 初中班主任 chu'zhong'ban'zhu'ren
+初中题 chu'zhong'ti
 楚中天 chu'zhong'tian
 出专辑 chu'zhuan'ji
 杵状指 chu'zhuang'zhi
@@ -5400,6 +5438,7 @@
 穿三件 chuan'san'jian
 川沙妲己 chuan'sha'da'ji
 川上富江 chuan'shang'fu'jiang
+传输者 chuan'shu'zhe
 穿书自救指南 chuan'shu'zi'jiu'zhi'nan
 传说币 chuan'shuo'bi
 传说场 chuan'shuo'chang
@@ -5512,6 +5551,7 @@
 吹走了 chui'zou'le
 纯爱番 chun'ai'fan
 纯爱战神 chun'ai'zhan'shen
+纯白花嫁 chun'bai'hua'jia
 春不寒 chun'bu'han
 唇齿留香 chun'chi'liu'xiang
 春池嫣韵 chun'chi'yan'yun
@@ -5567,6 +5607,7 @@
 纯人声 chun'ren'sheng
 春日祭 chun'ri'ji
 春日记忆 chun'ri'ji'yi
+春日望 chun'ri'wang
 春如四季 chun'ru'si'ji
 春三月 chun'san'yue
 唇纱 chun'sha
@@ -5625,6 +5666,7 @@
 慈母情深 ci'mu'qing'shen
 刺篇 ci'pian
 刺情 ci'qing
+次仁拉索 ci'ren'la'suo
 刺杀小说家 ci'sha'xiao'shuo'jia
 慈善赛 ci'shan'sai
 慈善信息 ci'shan'xin'xi
@@ -5678,6 +5720,7 @@
 丛容 cong'rong
 从实际出发 cong'shi'ji'chu'fa
 丛树 cong'shu
+丛台惠 cong'tai'hui
 丛台通 cong'tai'tong
 从未被超越 cong'wei'bei'chao'yue
 从未离开 cong'wei'li'kai
@@ -5728,6 +5771,7 @@
 璀璨之星 cui'can'zhi'xing
 崔成国 cui'cheng'guo
 淬毒 cui'du
+崔恩静 cui'en'jing
 崔放 cui'fang
 翠峰山 cui'feng'shan
 萃工厂 cui'gong'chang
@@ -5775,6 +5819,7 @@
 翠玉录 cui'yu'lu
 崔宇同 cui'yu'tong
 崔雨鑫 cui'yu'xin
+崔宇植 cui'yu'zhi
 崔云峰 cui'yun'feng
 崔真实 cui'zhen'shi
 崔智友 cui'zhi'you
@@ -5841,6 +5886,7 @@
 打不打麻将 da'bu'da'ma'jiang
 大不溜 da'bu'liu
 达布溜 da'bu'liu
+大补贴 da'bu'tie
 大猜想 da'cai'xiang
 打菜籽 da'cai'zi
 搭餐 da'can
@@ -6078,10 +6124,12 @@
 大蜡烛 da'la'zhu
 大懒觉 da'lan'jiao
 大懒猫 da'lan'mao
+大朗医院 da'lang'yi'yuan
 大佬救命 da'lao'jiu'ming
 大佬卡 da'lao'ka
 打了两天 da'le'liang'tian
 打了疫苗 da'le'yi'miao
+打雷姐 da'lei'jie
 大雷音寺 da'lei'yin'si
 大冷门 da'leng'men
 大力度 da'li'du
@@ -6275,6 +6323,7 @@
 大铁盆 da'tie'pen
 大庭广众之下 da'ting'guang'zhong'zhi'xia
 大同南站 da'tong'nan'zhan
+大通桥 da'tong'qiao
 大童鞋 da'tong'xie
 大头菇 da'tou'gu
 大土司 da'tu'si
@@ -6344,9 +6393,11 @@
 大雪怪 da'xue'guai
 大学教材 da'xue'jiao'cai
 大学教室 da'xue'jiao'shi
+大雪节气 da'xue'jie'qi
 大雪球 da'xue'qiu
 大雪人 da'xue'ren
 大学习 da'xue'xi
+大雪至 da'xue'zhi
 大寻 da'xun
 大烟炮 da'yan'pao
 大演说家 da'yan'shuo'jia
@@ -6357,6 +6408,7 @@
 打野人 da'ye'ren
 大叶性 da'ye'xing
 打野英雄 da'ye'ying'xiong
+大懿 da'yi
 大疫 da'yi
 打一个字 da'yi'ge'zi
 答疑会 da'yi'hui
@@ -6439,6 +6491,7 @@
 带不进来 dai'bu'jin'lai
 代餐球 dai'can'qiu
 带参数 dai'can'shu
+代唱 dai'chang
 带惩戒 dai'cheng'jie
 代吃 dai'chi
 代答 dai'da
@@ -6649,6 +6702,7 @@
 单元测试卷 dan'yuan'ce'shi'juan
 单元门口 dan'yuan'men'kou
 单乐章 dan'yue'zhang
+担责于身 dan'ze'yu'shen
 旦增尼玛 dan'zeng'ni'ma
 丹镇北京 dan'zhen'bei'jing
 旦正 dan'zheng
@@ -6687,6 +6741,7 @@
 挡获 dang'huo
 当家教 dang'jia'jiao
 当家主母 dang'jia'zhu'mu
+党建先锋 dang'jian'xian'feng
 当教师 dang'jiao'shi
 党课开讲啦 dang'ke'kai'jiang'la
 当空姐 dang'kong'jie
@@ -6723,6 +6778,7 @@
 荡悠悠 dang'you'you
 党员活动 dang'yuan'huo'dong
 党员同志 dang'yuan'tong'zhi
+党韫葳 dang'yun'wei
 挡灾 dang'zai
 党在我心中 dang'zai'wo'xin'zhong
 党指挥 dang'zhi'hui
@@ -7283,6 +7339,7 @@
 帝王湖 di'wang'hu
 第五把 di'wu'ba
 第五号 di'wu'hao
+第五军团 di'wu'jun'tuan
 第五类 di'wu'lei
 第五赛季 di'wu'sai'ji
 第五职业 di'wu'zhi'ye
@@ -7324,6 +7381,8 @@
 第一个愿望 di'yi'ge'yuan'wang
 第一个祝福 di'yi'ge'zhu'fu
 第一剂 di'yi'ji
+第一家园 di'yi'jia'yuan
+第一剑魂 di'yi'jian'hun
 第一诫 di'yi'jie
 第一颗原子弹 di'yi'ke'yuan'zi'dan
 第一炉香 di'yi'lu'xiang
@@ -7537,6 +7596,7 @@
 掉了一颗星 diao'le'yi'ke'xing
 刁磊 diao'lei
 调离岗位 diao'li'gang'wei
+刁翎 diao'ling
 掉马甲 diao'ma'jia
 钓螃蟹 diao'pang'xie
 吊桥效应 diao'qiao'xiao'ying
@@ -7618,6 +7678,7 @@
 顶胯 ding'kua
 定了一个 ding'le'yi'ge
 丁柳元 ding'liu'yuan
+鼎炉 ding'lu
 定胜 ding'sheng
 定时定点 ding'shi'ding'dian
 定时发送 ding'shi'fa'song
@@ -7673,6 +7734,7 @@
 丢羊 diu'yang
 丢一门 diu'yi'men
 冬奥币 dong'ao'bi
+冬奥钞 dong'ao'chao
 东奥会 dong'ao'hui
 冬奥纪念币 dong'ao'ji'nian'bi
 冬奥运 dong'ao'yun
@@ -7738,6 +7800,7 @@
 东方亿象城 dong'fang'yi'xiang'cheng
 东风遥 dong'feng'yao
 冻干面膜 dong'gan'mian'mo
+东港嘉苑 dong'gang'jia'yuan
 冬公 dong'gong
 冬弓 dong'gong
 东沟岭 dong'gou'ling
@@ -7766,6 +7829,7 @@
 冬极 dong'ji
 冬季奥运会 dong'ji'ao'yun'hui
 冬极白星 dong'ji'bai'xing
+冬季福利 dong'ji'fu'li
 冬季睡衣 dong'ji'shui'yi
 冬季特卖 dong'ji'te'mai
 冬季外套 dong'ji'wai'tao
@@ -7862,6 +7926,7 @@
 冬天的秘密 dong'tian'de'mi'mi
 冬天的衣服 dong'tian'de'yi'fu
 冬天四件套 dong'tian'si'jian'tao
+董天文 dong'tian'wen
 冬天衣服 dong'tian'yi'fu
 冬天有我 dong'tian'you'wo
 冻透 dong'tou
@@ -7881,7 +7946,9 @@
 东西多不 dong'xi'duo'bu
 东西多不多 dong'xi'duo'bu'duo
 东西拿好 dong'xi'na'hao
+东新街道 dong'xin'jie'dao
 东玄 dong'xuan
+董萱儿 dong'xuan'er
 洞穴菇 dong'xue'gu
 董学升 dong'xue'sheng
 冬亚 dong'ya
@@ -7941,8 +8008,10 @@
 都快乐 dou'kuai'le
 斗猎 dou'lie
 斗龙芝 dou'long'zhi
+斗罗世界 dou'luo'shi'jie
 都没上 dou'mei'shang
 逗萌 dou'meng
+豆绵绵 dou'mian'mian
 斗母 dou'mu
 斗姆元君 dou'mu'yuan'jun
 逗鸟外传 dou'niao'wai'zhuan
@@ -8015,6 +8084,7 @@
 独处的时候 du'chu'de'shi'hou
 堵船 du'chuan
 督促检查 du'cu'jian'cha
+杜达雄 du'da'xiong
 毒岛 du'dao
 赌到 du'dao
 杜德利 du'de'li
@@ -8260,6 +8330,7 @@
 对冲力度 dui'chong'li'du
 对春联 dui'chun'lian
 对党忠诚 dui'dang'zhong'cheng
+对等关系 dui'deng'guan'xi
 队短 dui'duan
 对方已拒绝 dui'fang'yi'ju'jue
 堆个雪人 dui'ge'xue'ren
@@ -8338,6 +8409,7 @@
 多吃糖 duo'chi'tang
 多吃粽子 duo'chi'zong'zi
 多重冰 duo'chong'bing
+多重冰冻咒 duo'chong'bing'dong'zhou
 多重人格 duo'chong'ren'ge
 多穿点哈 duo'chuan'dian'ha
 多穿几件 duo'chuan'ji'jian
@@ -9039,6 +9111,7 @@
 番阳 fan'yang
 范阳夜变 fan'yang'ye'bian
 反也顺 fan'ye'shun
+翻页者 fan'ye'zhe
 范逸 fan'yi
 翻译大赛 fan'yi'da'sai
 翻译蛋 fan'yi'dan
@@ -9052,6 +9125,7 @@
 返粤 fan'yue
 范蕴若 fan'yun'ruo
 返赞 fan'zan
+反诈银行 fan'zha'yin'hang
 番长 fan'zhang
 反着买 fan'zhe'mai
 返正 fan'zheng
@@ -9412,6 +9486,7 @@
 飞行冒险 fei'xing'mao'xian
 飞行日 fei'xing'ri
 飞行赛道 fei'xing'sai'dao
+飞行艇 fei'xing'ting
 飞行学院 fei'xing'xue'yuan
 飞行印章 fei'xing'yin'zhang
 飞咻 fei'xiu
@@ -9655,6 +9730,7 @@
 蜂皇水 feng'huang'shui
 凤凰羽毛 feng'huang'yu'mao
 凤凰职教 feng'huang'zhi'jiao
+凤凰嘴 feng'huang'zui
 烽火芳菲 feng'huo'fang'fei
 风火海 feng'huo'hai
 冯骥 feng'ji
@@ -9724,6 +9800,7 @@
 风起陇西 feng'qi'long'xi
 风起洛阳 feng'qi'luo'yang
 冯其庸 feng'qi'yong
+封桥 feng'qiao
 风敲竹 feng'qiao'zhu
 风琴褶 feng'qin'zhe
 逢青 feng'qing
@@ -9976,6 +10053,7 @@
 福建加油 fu'jian'jia'you
 福建教育 fu'jian'jiao'yu
 伏见司 fu'jian'si
+符建涛 fu'jian'tao
 福建疫情 fu'jian'yi'qing
 福建助学 fu'jian'zhu'xue
 福晶科技 fu'jing'ke'ji
@@ -10058,6 +10136,7 @@
 赴美上市 fu'mei'shang'shi
 傅淼 fu'miao
 傅敏 fu'min
+富民桥 fu'min'qiao
 傅明 fu'ming
 伏魔罗汉 fu'mo'luo'han
 伏魔人 fu'mo'ren
@@ -10098,6 +10177,7 @@
 伏生 fu'sheng
 复圣 fu'sheng
 浮生记 fu'sheng'ji
+福生无量天尊 fu'sheng'wu'liang'tian'zun
 复始 fu'shi
 复试成绩 fu'shi'cheng'ji
 复试费 fu'shi'fei
@@ -10160,6 +10240,7 @@
 富硒大米 fu'xi'da'mi
 氟西丁 fu'xi'ding
 伏羲山 fu'xi'shan
+傅向北 fu'xiang'bei
 氟硝西泮 fu'xiao'xi'pan
 傅欣瑶 fu'xin'yao
 父姓 fu'xing
@@ -10261,6 +10342,7 @@
 盖楼房 gai'lou'fang
 盖伦打野 gai'lun'da'ye
 盖伦特 gai'lun'te
+改名潮 gai'ming'chao
 改年龄 gai'nian'ling
 盖奇 gai'qi
 改善民生 gai'shan'min'sheng
@@ -10565,6 +10647,7 @@
 高海宁 gao'hai'ning
 高菡 gao'han
 高合 gao'he
+高河塘 gao'he'tang
 高鸿股份 gao'hong'gu'fen
 高宏志 gao'hong'zhi
 高级词汇 gao'ji'ci'hui
@@ -10852,6 +10935,7 @@
 格雷泽 ge'lei'ze
 格里恩 ge'li'en
 格里夫 ge'li'fu
+葛立恒数 ge'li'heng'shu
 隔离几天 ge'li'ji'tian
 隔离考场 ge'li'kao'chang
 隔离了 ge'li'le
@@ -10910,6 +10994,7 @@
 个人收款码 ge'ren'shou'kuan'ma
 个人所得 ge'ren'suo'de
 个人行程 ge'ren'xing'cheng
+格日措 ge'ri'cuo
 格睿 ge'rui
 格桑花开 ge'sang'hua'kai
 戈沙克 ge'sha'ke
@@ -11167,6 +11252,7 @@
 更远的地方 geng'yuan'de'di'fang
 更扎心 geng'zha'xin
 耿庄桥 geng'zhuang'qiao
+庚子月 geng'zi'yue
 公安类 gong'an'lei
 公安联考 gong'an'lian'kao
 公安专业 gong'an'zhuan'ye
@@ -11259,6 +11345,7 @@
 公祭活动 gong'ji'huo'dong
 攻击舰 gong'ji'jian
 攻击头 gong'ji'tou
+公祭网 gong'ji'wang
 攻击欲望 gong'ji'yu'wang
 龚嘉欣 gong'jia'xin
 共建班 gong'jian'ban
@@ -11598,8 +11685,10 @@
 孤寡蛙 gu'gua'wa
 孤寡王 gu'gua'wang
 孤寡小青蛙 gu'gua'xiao'qing'wa
+古棺 gu'guan
 古观音 gu'guan'yin
 孤鬼 gu'gui
+顾国平 gu'guo'ping
 古韩镇 gu'han'zhen
 顾衡 gu'heng
 谷花音 gu'hua'yin
@@ -11724,6 +11813,7 @@
 故意伤人 gu'yi'shang'ren
 顾医生 gu'yi'sheng
 故意输 gu'yi'shu
+谷宜瞳 gu'yi'tong
 顾一野 gu'yi'ye
 故意找茬 gu'yi'zhao'cha
 固营 gu'ying
@@ -11792,6 +11882,7 @@
 寡王 gua'wang
 瓜王 gua'wang
 刮鱼鳞 gua'yu'lin
+卦者 gua'zhe
 刮着风 gua'zhe'feng
 瓜真多 gua'zhen'duo
 瓜主 gua'zhu
@@ -11904,6 +11995,7 @@
 关闹钟 guan'nao'zhong
 关内侯 guan'nei'hou
 关你毛事 guan'ni'mao'shi
+官桥村 guan'qiao'cun
 关情 guan'qing
 官庆 guan'qing
 观赛点 guan'sai'dian
@@ -12091,6 +12183,7 @@
 鬼灯幻月 gui'deng'huan'yue
 鬼灯笼 gui'deng'long
 鬼笛 gui'di
+鬼兜虫 gui'dou'chong
 鬼斗罗 gui'dou'luo
 归凡 gui'fan
 归返 gui'fan
@@ -12110,6 +12203,7 @@
 归航 gui'hang
 鬼黑 gui'hei
 规化 gui'hua
+诡话 gui'hua
 鬼话怪谈 gui'hua'guai'tan
 桂花弄 gui'hua'nong
 归化球员 gui'hua'qiu'yuan
@@ -12129,6 +12223,7 @@
 归离原 gui'li'yuan
 桂林电子 gui'lin'dian'zi
 桂林航空 gui'lin'hang'kong
+桂林话 gui'lin'hua
 贵六 gui'liu
 归笼 gui'long
 鬼乱窜 gui'luan'cuan
@@ -12215,6 +12310,7 @@
 滚圈 gun'quan
 滚石乐队 gun'shi'yue'dui
 滚烫的青春 gun'tang'de'qing'chun
+滚烫人生 gun'tang'ren'sheng
 滚爷 gun'ye
 郭爱华 guo'ai'hua
 国安立法 guo'an'li'fa
@@ -12318,6 +12414,7 @@
 国际巨星 guo'ji'ju'xing
 国际篮联 guo'ji'lan'lian
 国际乒联 guo'ji'ping'lian
+国际汽联 guo'ji'qi'lian
 国际青年 guo'ji'qing'nian
 国际赛场 guo'ji'sai'chang
 国际赛事 guo'ji'sai'shi
@@ -12387,6 +12484,7 @@
 郭景云 guo'jing'yun
 国卷 guo'juan
 郭开 guo'kai
+郭亢 guo'kang
 国考报名 guo'kao'bao'ming
 国考补录 guo'kao'bu'lu
 国考成绩 guo'kao'cheng'ji
@@ -12570,6 +12668,7 @@
 过线率 guo'xian'lv
 过湘江 guo'xiang'jiang
 郭啸 guo'xiao
+郭霄汉 guo'xiao'han
 郭小胖 guo'xiao'pang
 郭小四 guo'xiao'si
 国心 guo'xin
@@ -13233,6 +13332,7 @@
 邗中 han'zhong
 韩专 han'zhuan
 韩子昂 han'zi'ang
+汉子茶 han'zi'cha
 韩子墨 han'zi'mo
 航发动力 hang'fa'dong'li
 夯基固本 hang'ji'gu'ben
@@ -13632,10 +13732,12 @@
 何国勇 he'guo'yong
 和菓子 he'guo'zi
 盒盒盒 he'he'he
+盒盒马马 he'he'ma'ma
 喝红茶 he'hong'cha
 何泓姗 he'hong'shan
 何鸿焱 he'hong'yan
 呵护好 he'hu'hao
+呵护生命 he'hu'sheng'ming
 鹤华 he'hua
 荷花奖 he'hua'jiang
 荷花市场 he'hua'shi'chang
@@ -13692,6 +13794,7 @@
 河马公主 he'ma'gong'zhu
 盒马生鲜 he'ma'sheng'xian
 河马影业 he'ma'ying'ye
+禾迈 he'mai
 喝脉动 he'mai'dong
 贺茂 he'mao
 喝茅台 he'mao'tai
@@ -13803,6 +13906,7 @@
 鹤王 he'wang
 禾望电气 he'wang'dian'qi
 合味芳 he'wei'fang
+何伟光 he'wei'guang
 何为强者 he'wei'qiang'zhe
 核污水 he'wu'shui
 贺希宁 he'xi'ning
@@ -13824,6 +13928,7 @@
 核兴舞器 he'xing'wu'qi
 贺玄 he'xuan
 何宣林 he'xuan'lin
+何晏 he'yan
 贺言 he'yan
 何雁诗 he'yan'shi
 喝羊肉汤 he'yang'rou'tang
@@ -13884,7 +13989,9 @@
 黑暗大法师 hei'an'da'fa'shi
 黑暗迪迦 hei'an'di'jia
 黑暗过后 hei'an'guo'hou
+黑暗降临 hei'an'jiang'lin
 黑暗迷宫 hei'an'mi'gong
+黑暗区域 hei'an'qu'yu
 黑暗心灵 hei'an'xin'ling
 黑暗之王 hei'an'zhi'wang
 黑白道 hei'bai'dao
@@ -13901,6 +14008,7 @@
 黑帮家族 hei'bang'jia'zu
 黑帮老大 hei'bang'lao'da
 黑豹党 hei'bao'dang
+黑豹兽 hei'bao'shou
 黑豹乐队 hei'bao'yue'dui
 黑包子 hei'bao'zi
 黑财经 hei'cai'jing
@@ -14114,6 +14222,7 @@
 红寡妇 hong'gua'fu
 宏光侠 hong'guang'xia
 红贵妃 hong'gui'fei
+红鬼仔 hong'gui'zai
 红果果绿泡泡 hong'guo'guo'lv'pao'pao
 洪浩轩 hong'hao'xuan
 红狐狸面具 hong'hu'li'mian'ju
@@ -14225,6 +14334,7 @@
 弘扬科学精神 hong'yang'ke'xue'jing'shen
 弘扬劳动精神 hong'yang'lao'dong'jing'shen
 红阳能源 hong'yang'neng'yuan
+弘扬全人类 hong'yang'quan'ren'lei
 弘扬伟大 hong'yang'wei'da
 弘扬五四精神 hong'yang'wu'si'jing'shen
 弘扬宪法 hong'yang'xian'fa
@@ -14244,9 +14354,11 @@
 红椅子 hong'yi'zi
 鸿音 hong'yin
 洪永城 hong'yong'cheng
+红油火锅 hong'you'huo'guo
 红柚四季春 hong'you'si'ji'chun
 红与白 hong'yu'bai
 红雨老师 hong'yu'lao'shi
+虹宇宙 hong'yu'zhou
 鸿运到 hong'yun'dao
 鸿运扇 hong'yun'shan
 虹云星官 hong'yun'xing'guan
@@ -14428,6 +14540,7 @@
 胡乐乐 hu'le'le
 互礼 hu'li
 狐利 hu'li
+狐离 hu'li
 狐狸不是妖 hu'li'bu'shi'yao
 湖里大道 hu'li'da'dao
 护理工作 hu'li'gong'zuo
@@ -14667,6 +14780,7 @@
 华服日 hua'fu'ri
 华府沙河 hua'fu'sha'he
 华夫鞋 hua'fu'xie
+画个脸 hua'ge'lian
 华公 hua'gong
 花宫娜 hua'gong'na
 花谷奇缘 hua'gu'qi'yuan
@@ -14710,6 +14824,7 @@
 花开满城 hua'kai'man'cheng
 花开有声 hua'kai'you'sheng
 花了好多钱 hua'le'hao'duo'qian
+华丽的复仇 hua'li'de'fu'chou
 华莉丝 hua'li'si
 华林山 hua'lin'shan
 花陵 hua'ling
@@ -14862,6 +14977,7 @@
 怀先 huai'xian
 淮信 huai'xin
 坏刑警 huai'xing'jing
+槐阳 huai'yang
 淮阳路 huai'yang'lu
 槐阳镇 huai'yang'zhen
 淮阳中学 huai'yang'zhong'xue
@@ -14936,6 +15052,7 @@
 幻魔剑舞 huan'mo'jian'wu
 还你自由 huan'ni'zi'you
 换牛 huan'niu
+换拍 huan'pai
 缓派 huan'pai
 幻胖 huan'pang
 换配件 huan'pei'jian
@@ -14983,6 +15100,7 @@
 欢喜猎人 huan'xi'lie'ren
 换洗衣物 huan'xi'yi'wu
 换显卡 huan'xian'ka
+焕相 huan'xiang
 幻想大陆 huan'xiang'da'lu
 幻象黑兔 huan'xiang'hei'tu
 幻想记 huan'xiang'ji
@@ -15021,6 +15139,7 @@
 谎报年龄 huang'bao'nian'ling
 黄饼 huang'bing
 黄博凯 huang'bo'kai
+黄草朗 huang'cao'lang
 黄常洲 huang'chang'zhou
 黄成希 huang'cheng'xi
 黄橙子 huang'cheng'zi
@@ -15441,6 +15560,7 @@
 徽章机 hui'zhang'ji
 会长是女仆大人 hui'zhang'shi'nv'pu'da'ren
 绘真 hui'zhen
+惠州北 hui'zhou'bei
 徽州府 hui'zhou'fu
 徽州宴 hui'zhou'yan
 魂兵之戈 hun'bing'zhi'ge
@@ -15602,6 +15722,7 @@
 火山版 huo'shan'ban
 火山肠 huo'shan'chang
 火山姐 huo'shan'jie
+火山裤 huo'shan'ku
 火少 huo'shao
 火烧里 huo'shao'li
 火社 huo'she
@@ -15659,6 +15780,7 @@
 火钻 huo'zuan
 寄哀思 ji'ai'si
 吉巴 ji'ba
+极巴 ji'ba
 姬白 ji'bai
 几百单 ji'bai'dan
 几百号人 ji'bai'hao'ren
@@ -15700,12 +15822,14 @@
 继承段位 ji'cheng'duan'wei
 记承天寺 ji'cheng'tian'si
 疾冲 ji'chong
+基础币 ji'chu'bi
 基础软硬件 ji'chu'ruan'ying'jian
 基础学科 ji'chu'xue'ke
 及川彻 ji'chuan'che
 极创引力 ji'chuang'yin'li
 季春奶奶 ji'chun'nai'nai
 纪存希 ji'cun'xi
+鸡蛋歌 ji'dan'ge
 鸡蛋挂面 ji'dan'gua'mian
 鸡蛋芒 ji'dan'mang
 集到 ji'dao
@@ -15743,6 +15867,7 @@
 几点考完 ji'dian'kao'wan
 几点能到家 ji'dian'neng'dao'jia
 几点去接 ji'dian'qu'jie
+祭奠同胞 ji'dian'tong'bao
 祭奠先烈 ji'dian'xian'lie
 祭奠英烈 ji'dian'ying'lie
 祭奠英雄 ji'dian'ying'xiong
@@ -15787,6 +15912,7 @@
 急风 ji'feng
 疾风亦有归途 ji'feng'yi'you'gui'tu
 稷峰镇 ji'feng'zhen
+基夫 ji'fu
 基辅迪纳摩 ji'fu'di'na'mo
 集福卡 ji'fu'ka
 集福了 ji'fu'le
@@ -15819,6 +15945,7 @@
 极海听雷 ji'hai'ting'lei
 极寒复出 ji'han'fu'chu
 季憨憨 ji'han'han
+极寒模式 ji'han'mo'shi
 极寒天气 ji'han'tian'qi
 极寒之城 ji'han'zhi'cheng
 几号出去 ji'hao'chu'qu
@@ -15897,6 +16024,7 @@
 季节赛 ji'jie'sai
 季节先祖 ji'jie'xian'zu
 集结者 ji'jie'zhe
+集结值 ji'jie'zhi
 基金从业 ji'jin'cong'ye
 极境 ji'jing
 极境修行 ji'jing'xiu'xing
@@ -15933,6 +16061,7 @@
 肌联蛋白 ji'lian'dan'bai
 计量官 ji'liang'guan
 计量日 ji'liang'ri
+吉林动画 ji'lin'dong'hua
 吉林公安 ji'lin'gong'an
 吉林工商 ji'lin'gong'shang
 吉林化工 ji'lin'hua'gong
@@ -16246,6 +16375,7 @@
 家和国 jia'he'guo
 家和家美 jia'he'jia'mei
 夹核桃 jia'he'tao
+家恨 jia'hen
 加厚绒 jia'hou'rong
 加厚卫衣 jia'hou'wei'yi
 贾湖骨笛 jia'hu'gu'di
@@ -16346,6 +16476,7 @@
 加强国防 jia'qiang'guo'fang
 加强国防建设 jia'qiang'guo'fang'jian'she
 加强国际合作 jia'qiang'guo'ji'he'zuo
+加强环境保护 jia'qiang'huan'jing'bao'hu
 加强监督 jia'qiang'jian'du
 加强交流 jia'qiang'jiao'liu
 加强经济建设 jia'qiang'jing'ji'jian'she
@@ -16871,6 +17002,7 @@
 将杀 jiang'sha
 江莎莎 jiang'sha'sha
 江山纪 jiang'shan'ji
+姜山木 jiang'shan'mu
 江上晚风吟 jiang'shang'wan'feng'yin
 蒋申 jiang'shen
 姜昇润 jiang'sheng'run
@@ -17057,6 +17189,7 @@
 较稳妥 jiao'wen'tuo
 叫我第一名 jiao'wo'di'yi'ming
 脚下有力量 jiao'xia'you'li'liang
+叫小番 jiao'xiao'fan
 滘心 jiao'xin
 侥幸者 jiao'xing'zhe
 教学进度 jiao'xue'jin'du
@@ -17080,6 +17213,7 @@
 嘦姕 jiao'zi
 饺子榜 jiao'zi'bang
 教资报名 jiao'zi'bao'ming
+教资笔试 jiao'zi'bi'shi
 教资成绩 jiao'zi'cheng'ji
 教资官网 jiao'zi'guan'wang
 饺子就酒 jiao'zi'jiu'jiu
@@ -17188,6 +17322,7 @@
 睫毛打底 jie'mao'da'di
 洁美科技 jie'mei'ke'ji
 洁咪 jie'mi
+解密盒 jie'mi'he
 杰米克 jie'mi'ke
 解密游戏 jie'mi'you'xi
 解民忧 jie'min'you
@@ -17237,6 +17372,7 @@
 节水型社会 jie'shui'xing'she'hui
 解说杯 jie'shuo'bei
 解说席 jie'shuo'xi
+杰斯顿 jie'si'dun
 杰斯兽 jie'si'shou
 杰斯提斯 jie'si'ti'si
 接送时间 jie'song'shi'jian
@@ -17329,6 +17465,7 @@
 金并 jin'bing
 金饼 jin'bing
 金饼糖屋 jin'bing'tang'wu
+金勃阳 jin'bo'yang
 金博洋 jin'bo'yang
 进步的阶梯 jin'bu'de'jie'ti
 进部队 jin'bu'dui
@@ -17464,6 +17601,7 @@
 进局子 jin'ju'zi
 金卷轴 jin'juan'zhou
 禁绝毒品 jin'jue'du'pin
+禁卡表 jin'ka'biao
 禁考 jin'kao
 进考场 jin'kao'chang
 靳柯 jin'ke
@@ -17800,6 +17938,7 @@
 进直播 jin'zhi'bo
 金智恩 jin'zhi'en
 金指环 jin'zhi'huan
+进知解 jin'zhi'jie
 禁止浪费 jin'zhi'lang'fei
 金知元 jin'zhi'yuan
 金志洙 jin'zhi'zhu
@@ -17837,6 +17976,7 @@
 经常访问 jing'chang'fang'wen
 经常居住地 jing'chang'ju'zhu'di
 镜城 jing'cheng
+京城股份 jing'cheng'gu'fen
 井川 jing'chuan
 井川里予 jing'chuan'li'yu
 京吹 jing'chui
@@ -17888,6 +18028,7 @@
 净化网络 jing'hua'wang'luo
 镜花影 jing'hua'ying
 京惠保 jing'hui'bao
+惊魂夜 jing'hun'ye
 竞技宝 jing'ji'bao
 竞技比赛 jing'ji'bi'sai
 经济大权 jing'ji'da'quan
@@ -17961,6 +18102,7 @@
 静山 jing'shan
 井上雄彦 jing'shang'xiong'yan
 井上正大 jing'shang'zheng'da
+精神变态 jing'shen'bian'tai
 精神不正常 jing'shen'bu'zheng'chang
 精神毒品 jing'shen'du'pin
 精神风貌 jing'shen'feng'mao
@@ -18013,6 +18155,7 @@
 京西宾馆 jing'xi'bin'guan
 惊喜连连 jing'xi'lian'lian
 惊喜满满 jing'xi'man'man
+惊喜双旦 jing'xi'shuang'dan
 京县 jing'xian
 敬献花篮 jing'xian'hua'lan
 京享 jing'xiang
@@ -18048,6 +18191,7 @@
 敬长大 jing'zhang'da
 京张铁路 jing'zhang'tie'lu
 景昭 jing'zhao
+惊蛰变 jing'zhe'bian
 竞争择优 jing'zheng'ze'you
 敬之 jing'zhi
 镜中花 jing'zhong'hua
@@ -18146,6 +18290,7 @@
 九九同心 jiu'jiu'tong'xin
 九颗星 jiu'ke'xing
 久酷 jiu'ku
+救苦 jiu'ku
 九款 jiu'kuan
 韭浪 jiu'lang
 救了他 jiu'le'ta
@@ -18456,6 +18601,7 @@
 绝不加班 jue'bu'jia'ban
 绝不容忍 jue'bu'rong'ren
 绝不手软 jue'bu'shou'ruan
+绝不原谅 jue'bu'yuan'liang
 绝代艳后 jue'dai'yan'hou
 绝地营救 jue'di'ying'jiu
 决斗场见 jue'dou'chang'jian
@@ -18618,6 +18764,7 @@
 喀喇昆仑 ka'la'kun'lun
 喀兰 ka'lan
 卡乐星球 ka'le'xing'qiu
+卡利班 ka'li'ban
 卡莉法 ka'li'fa
 卡里乌斯 ka'li'wu'si
 卡林巴琴 ka'lin'ba'qin
@@ -19397,6 +19544,7 @@
 柯书 ke'shu
 瞌睡兔 ke'shui'tu
 珂思美媞 ke'si'mei'ti
+科塔娜 ke'ta'na
 可糖 ke'tang
 课题模式 ke'ti'mo'shi
 氪条 ke'tiao
@@ -19573,6 +19721,7 @@
 控评组 kong'ping'zu
 空气月饼 kong'qi'yue'bing
 控枪 kong'qiang
+控球后卫 kong'qiu'hou'wei
 孔雀姬 kong'que'ji
 孔雀明王 kong'que'ming'wang
 空桑山 kong'sang'shan
@@ -19856,6 +20005,7 @@
 狂野换形 kuang'ye'huan'xing
 狂野模式 kuang'ye'mo'shi
 狂野男孩 kuang'ye'nan'hai
+狂野西部 kuang'ye'xi'bu
 旷野之息 kuang'ye'zhi'xi
 矿一 kuang'yi
 狂欲 kuang'yu
@@ -19877,6 +20027,7 @@
 窥梦 kui'meng
 奎妮 kui'ni
 奎尼 kui'ni
+葵水 kui'shui
 奎丝 kui'si
 葵叶 kui'ye
 奎茵 kui'yin
@@ -19969,14 +20120,17 @@
 辣嗓子 la'sang'zi
 辣嫂 la'sao
 辣台妹 la'tai'mei
+拉特菲 la'te'fei
 拉特兰 la'te'lan
 拉土车 la'tu'che
+拉瓦特 la'wa'te
 拉威 la'wei
 拉维 la'wei
 蜡像师 la'xiang'shi
 拉箱子 la'xiang'zi
 拉小手 la'xiao'shou
 拉新人 la'xin'ren
+拉雪橇 la'xue'qiao
 腊月初一 la'yue'chu'yi
 腊月二十九 la'yue'er'shi'jiu
 腊月二十七 la'yue'er'shi'qi
@@ -20414,6 +20568,7 @@
 乐柠 le'ning
 乐山师范 le'shan'shi'fan
 勒韦尔 le'wei'er
+乐享冰城 le'xiang'bing'cheng
 乐享城 le'xiang'cheng
 乐爷 le'ye
 乐游记 le'you'ji
@@ -20450,6 +20605,7 @@
 雷浩文 lei'hao'wen
 雷痕 lei'hen
 蕾皇 lei'huang
+雷皇 lei'huang
 累计充值 lei'ji'chong'zhi
 雷吉米勒 lei'ji'mi'le
 雷击木 lei'ji'mu
@@ -20499,6 +20655,7 @@
 雷霆风暴 lei'ting'feng'bao
 雷霆套装 lei'ting'tao'zhuang
 雷霆行动 lei'ting'xing'dong
+雷霆一号 lei'ting'yi'hao
 雷霆游戏 lei'ting'you'xi
 雷霆再起 lei'ting'zai'qi
 雷霆战将 lei'ting'zhan'jiang
@@ -20544,6 +20701,7 @@
 冷太太 leng'tai'tai
 冷特 leng'te
 冷系 leng'xi
+冷小兵 leng'xiao'bing
 冷逍遥 leng'xiao'yao
 冷血追击 leng'xue'zhui'ji
 楞严寺 leng'yan'si
@@ -20568,6 +20726,7 @@
 李逼 li'bi
 李饼 li'bing
 李炳军 li'bing'jun
+李柄熹 li'bing'xi
 离不成 li'bu'cheng
 利布特 li'bu'te
 李不言 li'bu'yan
@@ -20766,6 +20925,7 @@
 李莉娜 li'li'na
 李立楠 li'li'nan
 离离暑云散 li'li'shu'yun'san
+李丽欣 li'li'xin
 璃璃子 li'li'zi
 李联邦 li'lian'bang
 里莲华 li'lian'hua
@@ -20880,6 +21040,7 @@
 李少白 li'shao'bai
 立社 li'she
 离沈 li'shen
+黎深 li'shen
 李昇基 li'sheng'ji
 李圣龙 li'sheng'long
 李晟敏 li'sheng'min
@@ -21080,6 +21241,7 @@
 李峙锦 li'zhi'jin
 荔枝菌 li'zhi'jun
 理智派 li'zhi'pai
+励志前行 li'zhi'qian'xing
 李芷婷 li'zhi'ting
 荔枝虾 li'zhi'xia
 理智消费 li'zhi'xiao'fei
@@ -21212,6 +21374,7 @@
 链刃 lian'ren
 莲蓉月饼 lian'rong'yue'bing
 联赛车 lian'sai'che
+奁山 lian'shan
 连山坡 lian'shan'po
 连山易 lian'shan'yi
 恋商 lian'shang
@@ -21248,6 +21411,7 @@
 连易通 lian'yi'tong
 恋音 lian'yin
 莲音 lian'yin
+连引 lian'yin
 链音 lian'yin
 连音社 lian'yin'she
 恋与白 lian'yu'bai
@@ -21265,7 +21429,9 @@
 连追 lian'zhui
 梁爱琪 liang'ai'qi
 两岸连山 liang'an'lian'shan
+两岸同胞 liang'an'tong'bao
 两岸统一 liang'an'tong'yi
+两岸一家亲 liang'an'yi'jia'qin
 两百多分 liang'bai'duo'fen
 两百多公里 liang'bai'duo'gong'li
 两百公里 liang'bai'gong'li
@@ -21442,6 +21608,7 @@
 量子科技 liang'zi'ke'ji
 量子空间 liang'zi'kong'jian
 量子领域 liang'zi'ling'yu
+量子少年 liang'zi'shao'nian
 量子卫星 liang'zi'wei'xing
 量子物理学 liang'zi'wu'li'xue
 梁左 liang'zuo
@@ -21830,6 +21997,7 @@
 领取中心 ling'qu'zhong'xin
 灵犬 ling'quan
 领券中心 ling'quan'zhong'xin
+绫人 ling'ren
 令人感动 ling'ren'gan'dong
 令人失望 ling'ren'shi'wang
 令人心动 ling'ren'xin'dong
@@ -21901,11 +22069,13 @@
 凌月仙姬 ling'yue'xian'ji
 凌云彻 ling'yun'che
 凌云窟 ling'yun'ku
+凌云诺 ling'yun'nuo
 凌战 ling'zhan
 令正 ling'zheng
 零整比 ling'zheng'bi
 领证去 ling'zheng'qu
 领证书 ling'zheng'shu
+灵知 ling'zhi
 零之枪骑 ling'zhi'qiang'qi
 零之曙光 ling'zhi'shu'guang
 零之战线 ling'zhi'zhan'xian
@@ -22375,6 +22545,7 @@
 龙无目 long'wu'mu
 龙蜥 long'xi
 陇西路 long'xi'lu
+龙溪水岸 long'xi'shui'an
 龙蜥蜴 long'xi'yi
 龙虾堡 long'xia'bao
 龙虾煲 long'xia'bao
@@ -22462,7 +22633,7 @@
 卢德铭 lu'de'ming
 露蒂 lu'di
 露蒂的玩具 lu'di'de'wan'ju
-卢迪乌斯 lu'di'wu'si
+鲁迪乌斯 lu'di'wu'si
 卢店镇 lu'dian'zhen
 陆定昊 lu'ding'hao
 卢恩光 lu'en'guang
@@ -22561,6 +22732,7 @@
 路旁土 lu'pang'tu
 卢浦大桥 lu'pu'da'qiao
 陆勤 lu'qin
+路卿卿 lu'qing'qing
 录取不上 lu'qu'bu'shang
 录取查询 lu'qu'cha'xun
 录取到 lu'qu'dao
@@ -22703,6 +22875,7 @@
 乱世出英雄 luan'shi'chu'ying'xiong
 乱世虎臣 luan'shi'hu'chen
 乱世舞姬 luan'shi'wu'ji
+脔仙 luan'xian
 鸾翔 luan'xiang
 栾雨 luan'yu
 栾中 luan'zhong
@@ -22901,6 +23074,7 @@
 绿潮 lv'chao
 吕超然 lv'chao'ran
 吕成林 lv'cheng'lin
+绿川光 lv'chuan'guang
 绿川幸 lv'chuan'xing
 绿到你发慌 lv'dao'ni'fa'huang
 吕德光 lv'de'guang
@@ -22915,6 +23089,7 @@
 绿弓 lv'gong
 绿拐 lv'guai
 绿贵 lv'gui
+绿海华庭 lv'hai'hua'ting
 绿憨憨 lv'han'han
 吕红霞 lv'hong'xia
 绿皇 lv'huang
@@ -22939,6 +23114,7 @@
 绿色共识 lv'se'gong'shi
 绿色光芒 lv'se'guang'mang
 绿色生产 lv'se'sheng'chan
+绿色生态 lv'se'sheng'tai
 绿色蔬菜 lv'se'shu'cai
 绿色阅读 lv'se'yue'du
 绿衫军 lv'shan'jun
@@ -22971,10 +23147,12 @@
 旅游商贸 lv'you'shang'mao
 绿鱼 lv'yu
 吕云鹏 lv'yun'peng
+履责于行 lv'ze'yu'xing
 律政先锋 lv'zheng'xian'feng
 律子 lv'zi
 吕佐夫 lv'zuo'fu
 马宝尔 ma'bao'er
+骂不得 ma'bu'de
 麻布依 ma'bu'yi
 麻步镇 ma'bu'zhen
 马厂长 ma'chang'zhang
@@ -23008,6 +23186,7 @@
 玛格丽莎 ma'ge'li'sha
 马格纳斯 ma'ge'na'si
 麻姑山 ma'gu'shan
+马谷田 ma'gu'tian
 马古庄 ma'gu'zhuang
 马国力 ma'guo'li
 马哈迪 ma'ha'di
@@ -23466,6 +23645,7 @@
 盲鳗 mang'man
 盲目跟风 mang'mu'gen'feng
 盲鸟 mang'niao
+盲琴师 mang'qin'shi
 盲人节 mang'ren'jie
 芒岁 mang'sui
 盲侠大律师 mang'xia'da'lv'shi
@@ -23532,6 +23712,7 @@
 猫小乐 mao'xiao'le
 猫小猫 mao'xiao'mao
 毛小球 mao'xiao'qiu
+毛星云 mao'xing'yun
 毛靴 mao'xue
 毛雪汪 mao'xue'wang
 茅檐 mao'yan
@@ -23574,6 +23755,7 @@
 没被录取 mei'bei'lu'qu
 没被抓 mei'bei'zhua
 没本科 mei'ben'ke
+美彼 mei'bi
 没比赛 mei'bi'sai
 梅比乌斯 mei'bi'wu'si
 没必要解释 mei'bi'yao'jie'shi
@@ -24508,6 +24690,7 @@
 面试分 mian'shi'fen
 面试名单 mian'shi'ming'dan
 面试没过 mian'shi'mo'guo
+面试资料 mian'shi'zi'liao
 免手洗 mian'shou'xi
 免手续费 mian'shou'xu'fei
 免首重 mian'shou'zhong
@@ -24624,6 +24807,7 @@
 民营企业家 min'ying'qi'ye'jia
 民有所呼 min'you'suo'hu
 敏月 min'yue
+闽越水镇 min'yue'shui'zhen
 民之所向 min'zhi'suo'xiang
 民主西路 min'zhu'xi'lu
 民主主义革命 min'zhu'zhu'yi'ge'ming
@@ -24651,6 +24835,7 @@
 冥海 ming'hai
 冥海禁地 ming'hai'jin'di
 洺河 ming'he
+冥河水母 ming'he'shui'mu
 鸣鸿传 ming'hong'chuan
 明湖秀 ming'hu'xiu
 明化镇 ming'hua'zhen
@@ -24798,6 +24983,7 @@
 明箱操作 ming'xiang'cao'zuo
 冥想点 ming'xiang'dian
 明向校区 ming'xiang'xiao'qu
+冥霄 ming'xiao
 名校风暴 ming'xiao'feng'bao
 名校优生 ming'xiao'you'sheng
 明孝宗 ming'xiao'zong
@@ -24874,6 +25060,7 @@
 莫晨欢 mo'chen'huan
 膜翅 mo'chi
 莫愁村 mo'chou'cun
+魔厨 mo'chu
 魔创 mo'chuang
 墨道烟雨 mo'dao'yan'yu
 摩登年代 mo'deng'nian'dai
@@ -25254,6 +25441,7 @@
 牧羊人之心 mu'yang'ren'zhi'xin
 牧羊少年 mu'yang'shao'nian
 牧羊少年奇幻之旅 mu'yang'shao'nian'qi'huan'zhi'lv
+木曜日 mu'yao'ri
 木叶飞舞之处 mu'ye'fei'wu'zhi'chu
 牧野诡事 mu'ye'gui'shi
 牧野湖 mu'ye'hu
@@ -25391,6 +25579,7 @@
 那你坐车 na'ni'zuo'che
 那年年少 na'nian'nian'shao
 那年十八 na'nian'shi'ba
+那年我们 na'nian'wo'men
 娜诺 na'nuo
 拿坡里 na'po'li
 娜奇美 na'qi'mei
@@ -25421,6 +25610,7 @@
 那我也带 na'wo'ye'dai
 那我自己买 na'wo'zi'ji'mai
 那溪 na'xi
+纳西索 na'xi'suo
 拿行李箱 na'xing'li'xiang
 那学费 na'xue'fei
 那一巴掌 na'yi'ba'zhang
@@ -25526,6 +25716,7 @@
 难断 nan'duan
 南多凛 nan'duo'lin
 难二 nan'er
+男儿歌 nan'er'ge
 南方医科大 nan'fang'yi'ke'da
 南方有乔木 nan'fang'you'qiao'mu
 难飞 nan'fei
@@ -25620,6 +25811,7 @@
 南通理工 nan'tong'li'gong
 男同性恋 nan'tong'xing'lian
 男玩家 nan'wan'jia
+南望山 nan'wang'shan
 难忘师恩 nan'wang'shi'en
 男未婚 nan'wei'hun
 南威软件 nan'wei'ruan'jian
@@ -25631,6 +25823,7 @@
 男性角色 nan'xing'jue'se
 难兄难妹 nan'xiong'nan'mei
 南雄太 nan'xiong'tai
+南秀村 nan'xiu'cun
 男选手 nan'xuan'shou
 南烟斋 nan'yan'zhai
 南烟斋笔录 nan'yan'zhai'bi'lu
@@ -25798,6 +25991,7 @@
 能用完 neng'yong'wan
 能有几多愁 neng'you'ji'duo'chou
 能源集团 neng'yuan'ji'tuan
+能源之城 neng'yuan'zhi'cheng
 能咋过 neng'za'guo
 能早走 neng'zao'zou
 能战胜 neng'zhan'sheng
@@ -26023,6 +26217,7 @@
 孽吻 nie'wen
 捏我脸 nie'wo'lian
 聂小雨 nie'xiao'yu
+聂心远 nie'xin'yuan
 捏造陷阱 nie'zao'xian'jing
 孽主 nie'zhu
 您辛苦了 nin'xin'ku'le
@@ -26529,6 +26724,7 @@
 潘伟力 pan'wei'li
 潘威廉 pan'wei'lian
 判一缓一 pan'yi'huan'yi
+潘迎紫 pan'ying'zi
 盘友 pan'you
 潘雨润 pan'yu'run
 叛狱无间 pan'yu'wu'jian
@@ -26629,6 +26825,7 @@
 陪伴他 pei'ban'ta
 陪伴我 pei'ban'wo
 陪伴左右 pei'ban'zuo'you
+配不上我 pei'bu'shang'wo
 配菜员 pei'cai'yuan
 赔车 pei'che
 裴淳华 pei'chun'hua
@@ -26737,6 +26934,7 @@
 蓬山 peng'shan
 椪糖 peng'tang
 彭特务 peng'te'wu
+彭文乐 peng'wen'le
 彭咸 peng'xian
 彭晓冉 peng'xiao'ran
 碰星 peng'xing
@@ -27137,6 +27335,7 @@
 普王 pu'wang
 蒲汪镇 pu'wang'zhen
 浦项制铁 pu'xiang'zhi'tie
+普信女 pu'xin'nv
 普译奖 pu'yi'jiang
 朴佑镇 pu'you'zhen
 朴元淳 pu'yuan'chun
@@ -27338,6 +27537,7 @@
 奇妙之旅 qi'miao'zhi'lv
 齐民友 qi'min'you
 齐明月 qi'ming'yue
+期末不挂科 qi'mo'bu'gua'ke
 期末测试卷 qi'mo'ce'shi'juan
 期末加油 qi'mo'jia'you
 期末考完 qi'mo'kao'wan
@@ -27447,6 +27647,7 @@
 气温骤降 qi'wen'zhou'jiang
 骑蜗牛 qi'wo'niu
 启悟 qi'wu
+棋武士 qi'wu'shi
 七惜 qi'xi
 齐溪 qi'xi
 七夕出租 qi'xi'chu'zu
@@ -27515,6 +27716,7 @@
 绮遇 qi'yu
 齐羽 qi'yu
 起源弹 qi'yuan'dan
+祈愿和平 qi'yuan'he'ping
 祈愿花 qi'yuan'hua
 祈愿牌 qi'yuan'pai
 祈愿树 qi'yuan'shu
@@ -27652,6 +27854,7 @@
 前几任 qian'ji'ren
 钱家店 qian'jia'dian
 钱江大厦 qian'jiang'da'sha
+钱江国际 qian'jiang'guo'ji
 钱江水利 qian'jiang'shui'li
 钱江学院 qian'jiang'xue'yuan
 千劫 qian'jie
@@ -27828,6 +28031,7 @@
 抢付 qiang'fu
 抢福袋 qiang'fu'dai
 抢福利 qiang'fu'li
+抢甘蔗 qiang'gan'zhe
 枪杆子里面出政权 qiang'gan'zi'li'mian'chu'zheng'quan
 强港 qiang'gang
 抢个红包 qiang'ge'hong'bao
@@ -28134,6 +28338,7 @@
 氢爆 qing'bao
 晴宝贝 qing'bao'bei
 请保持距离 qing'bao'chi'ju'li
+情报姬 qing'bao'ji
 情报君 qing'bao'jun
 情报组织 qing'bao'zu'zhi
 清北复交 qing'bei'fu'jiao
@@ -28250,10 +28455,12 @@
 青饺 qing'jiao
 情节恶劣 qing'jie'e'lie
 青结工 qing'jie'gong
+清洁师 qing'jie'shi
 请接招 qing'jie'zhao
 轻井泽惠 qing'jing'ze'hui
 情景智能 qing'jing'zhi'neng
 请就位 qing'jiu'wei
+清居 qing'ju
 青桔猫 qing'ju'mao
 清俊 qing'jun
 请开门 qing'kai'men
@@ -28288,6 +28495,7 @@
 青龙秘宝 qing'long'mi'bao
 清落 qing'luo
 清律 qing'lv
+情侣壁纸 qing'lv'bi'zhi
 情侣短袖 qing'lv'duan'xiu
 情侣飞车 qing'lv'fei'che
 情侣酒店 qing'lv'jiu'dian
@@ -28369,6 +28577,7 @@
 青青阁 qing'qing'ge
 倾情回馈 qing'qing'hui'kui
 青青稞酒 qing'qing'ke'jiu
+卿卿我心 qing'qing'wo'xin
 青丘狐传说 qing'qiu'hu'chuan'shuo
 青曲社 qing'qu'she
 清泉山 qing'quan'shan
@@ -28410,6 +28619,7 @@
 清太坪 qing'tai'ping
 清碳 qing'tan
 卿涛 qing'tao
+青藤之恋 qing'teng'zhi'lian
 青天白日旗 qing'tian'bai'ri'qi
 请填表 qing'tian'biao
 擎天树 qing'tian'shu
@@ -28511,6 +28721,7 @@
 穷哈哈 qiong'ha'ha
 琼明神女录 qiong'ming'shen'nv'lu
 穷奇道 qiong'qi'dao
+琼润 qiong'run
 琼枝 qiong'zhi
 求表情包 qiu'biao'qing'bao
 球彩 qiu'cai
@@ -28553,6 +28764,7 @@
 邱建良 qiu'jian'liang
 秋将至 qiu'jiang'zhi
 秋节 qiu'jie
+求进 qiu'jin
 邱金元 qiu'jin'yuan
 秋决 qiu'jue
 秋来秋去 qiu'lai'qiu'qu
@@ -28570,6 +28782,7 @@
 丘丘人 qiu'qiu'ren
 秋渠乡 qiu'qu'xiang
 秋日蝉 qiu'ri'chan
+秋日华章 qiu'ri'hua'zhang
 秋日祭 qiu'ri'ji
 秋日里 qiu'ri'li
 秋日限定 qiu'ri'xian'ding
@@ -28608,6 +28821,7 @@
 仇英 qiu'ying
 球咏 qiu'yong
 求圆 qiu'yuan
+球员卡 qiu'yuan'ka
 秋元康 qiu'yuan'kang
 球藻 qiu'zao
 求沾 qiu'zhan
@@ -28784,6 +28998,7 @@
 去做指甲 qu'zuo'zhi'jia
 全败 quan'bai
 圈币 quan'bi
+拳布 quan'bu
 全部隔离 quan'bu'ge'li
 全部关闭 quan'bu'guan'bi
 全部合格 quan'bu'he'ge
@@ -28798,6 +29013,7 @@
 全程接种 quan'cheng'jie'zhong
 泉城学院 quan'cheng'xue'yuan
 全带上 quan'dai'shang
+全德报 quan'de'bao
 全低 quan'di
 全跌 quan'die
 全都对 quan'dou'dui
@@ -28998,6 +29214,7 @@
 全网下架 quan'wang'xia'jia
 犬薇 quan'wei
 犬屋敷 quan'wu'fu
+犬武者 quan'wu'zhe
 全息摄影 quan'xi'she'ying
 全下架 quan'xia'jia
 权现 quan'xian
@@ -29028,6 +29245,7 @@
 犬冢牙 quan'zhong'ya
 泉州师范 quan'zhou'shi'fan
 全主力 quan'zhu'li
+全专 quan'zhuan
 圈子不同 quan'zi'bu'tong
 鹊伴相依间 que'ban'xiang'yi'jian
 雀斑妆 que'ban'zhuang
@@ -29278,6 +29496,7 @@
 人民万岁 ren'min'wan'sui
 人民卫士 ren'min'wei'shi
 人民心声 ren'min'xin'sheng
+人民幸福 ren'min'xing'fu
 人民艺术家 ren'min'yi'shu'jia
 人民英雄 ren'min'ying'xiong
 人民有信仰 ren'min'you'xin'yang
@@ -29294,6 +29513,7 @@
 人桥 ren'qiao
 任清华 ren'qing'hua
 任权 ren'quan
+忍犬 ren'quan
 人权问题 ren'quan'wen'ti
 人人都爱 ren'ren'dou'ai
 任容萱 ren'rong'xuan
@@ -29636,12 +29856,14 @@
 阮大师 ruan'da'shi
 阮东升 ruan'dong'sheng
 软核 ruan'he
+阮家桥 ruan'jia'qiao
 软萌兔 ruan'meng'tu
 软软冰 ruan'ruan'bing
 软软糯糯 ruan'ruan'nuo'nuo
 软杀 ruan'sha
 阮氏 ruan'shi
 阮仕珍珠 ruan'shi'zhen'zhu
+软胎 ruan'tai
 软桃 ruan'tao
 阮文 ruan'wen
 软音 ruan'yin
@@ -29740,6 +29962,7 @@
 萨乌尔 sa'wu'er
 飒小姐 sa'xiao'jie
 塞伯利亚 sai'bo'li'ya
+赛布尔 sai'bu'er
 赛初 sai'chu
 赛道上 sai'dao'shang
 赛道之王 sai'dao'zhi'wang
@@ -29851,6 +30074,7 @@
 三分归元气 san'fen'gui'yuan'qi
 三分讥笑 san'fen'ji'xiao
 三分绝杀 san'fen'jue'sha
+三分王 san'fen'wang
 三分妄想 san'fen'wang'xiang
 三分之地 san'fen'zhi'di
 三峰结华 san'feng'jie'hua
@@ -29930,6 +30154,7 @@
 三毛五 san'mao'wu
 三枚金牌 san'mei'jin'pai
 三门闸 san'men'zha
+三梦奇缘 san'meng'qi'yuan
 三密 san'mi
 三面娜迦 san'mian'na'jia
 三民小区 san'min'xiao'qu
@@ -30319,6 +30544,7 @@
 闪电猫 shan'dian'mao
 闪电少女 shan'dian'shao'nv
 闪电瘦 shan'dian'shou
+闪电术 shan'dian'shu
 闪电玩 shan'dian'wan
 闪电五连鞭 shan'dian'wu'lian'bian
 闪电熊 shan'dian'xiong
@@ -30362,6 +30588,7 @@
 山怪 shan'guai
 闪光杯 shan'guang'bei
 闪光雷 shan'guang'lei
+闪光舞 shan'guang'wu
 闪轨 shan'gui
 山海集 shan'hai'ji
 山海楼 shan'hai'lou
@@ -30391,6 +30618,7 @@
 山经 shan'jing
 闪狙行动 shan'ju'xing'dong
 山君 shan'jun
+善可 shan'ke
 山里江南 shan'li'jiang'nan
 单立文 shan'li'wen
 善良一点 shan'liang'yi'dian
@@ -30719,6 +30947,8 @@
 少女终末旅行 shao'nv'zhong'mo'lv'xing
 少惹我 shao're'wo
 烧肉粽 shao'rou'zong
+少生 shao'sheng
+少生优生 shao'sheng'you'sheng
 少数群体 shao'shu'qun'ti
 少叹气 shao'tan'qi
 少外出 shao'wai'chu
@@ -30810,6 +31040,7 @@
 摄神取念 she'shen'qu'nian
 舍身为国 she'shen'wei'guo
 涉事 she'shi
+设施建设 she'shi'jian'she
 蛇首 she'shou
 射手队 she'shou'dui
 射手路 she'shou'lu
@@ -30852,6 +31083,7 @@
 深池 shen'chi
 沈虫虫 shen'chong'chong
 审丑 shen'chou
+深仇 shen'chou
 沈初 shen'chu
 神厨狂后 shen'chu'kuang'hou
 申聪 shen'cong
@@ -30870,6 +31102,7 @@
 身而为人 shen'er'wei'ren
 身法爷 shen'fa'ye
 申方剑 shen'fang'jian
+申非 shen'fei
 身份暴露 shen'fen'bao'lu
 身份地位 shen'fen'di'wei
 沈枫 shen'feng
@@ -30896,6 +31129,7 @@
 深海色 shen'hai'se
 深海先生 shen'hai'xian'sheng
 慎海雄 shen'hai'xiong
+沈海洋 shen'hai'yang
 深海夜光 shen'hai'ye'guang
 深海异兽 shen'hai'yi'shou
 谌浩轩 shen'hao'xuan
@@ -30951,6 +31185,7 @@
 沈骊歌 shen'li'ge
 谌利军 shen'li'jun
 神里绫华 shen'li'ling'hua
+神里绫人 shen'li'ling'ren
 神裂火织 shen'lie'huo'zhi
 申领地 shen'ling'di
 沈灵敏 shen'ling'min
@@ -30985,6 +31220,7 @@
 神秘河 shen'mi'he
 神秘黑猫 shen'mi'hei'mao
 神秘湖 shen'mi'hu
+神秘脚印 shen'mi'jiao'yin
 神秘惊喜 shen'mi'jing'xi
 神秘空间 shen'mi'kong'jian
 神秘商城 shen'mi'shang'cheng
@@ -31035,6 +31271,7 @@
 深入调查 shen'ru'diao'cha
 深入调研 shen'ru'diao'yan
 深入发展 shen'ru'fa'zhan
+沈汝凡 shen'ru'fan
 深入贯彻 shen'ru'guan'che
 深入合作 shen'ru'he'zuo
 深入开展 shen'ru'kai'zhan
@@ -31192,6 +31429,7 @@
 圣诞岛 sheng'dan'dao
 圣诞福利 sheng'dan'fu'li
 圣诞歌曲 sheng'dan'ge'qu
+圣诞果 sheng'dan'guo
 圣诞贺卡 sheng'dan'he'ka
 圣诞活动 sheng'dan'huo'dong
 圣诞节礼物 sheng'dan'jie'li'wu
@@ -31532,6 +31770,7 @@
 失格艺人 shi'ge'yi'ren
 适格者 shi'ge'zhe
 十根肠 shi'gen'chang
+十根金条 shi'gen'jin'tiao
 十根烤肠 shi'gen'kao'chang
 十根香肠 shi'gen'xiang'chang
 试供暖 shi'gong'nuan
@@ -31820,6 +32059,7 @@
 失去一个人 shi'qu'yi'ge'ren
 狮群 shi'qun
 十人本 shi'ren'ben
+石人沟鱼 shi'ren'gou'yu
 世人皆苦 shi'ren'jie'ku
 实人认证 shi'ren'ren'zheng
 嗜人之夜 shi'ren'zhi'ye
@@ -31887,11 +32127,13 @@
 实体刊 shi'ti'kan
 实体清单 shi'ti'qing'dan
 实体专 shi'ti'zhuan
+实体专辑 shi'ti'zhuan'ji
 十天班 shi'tian'ban
 石天冬 shi'tian'dong
 石田光 shi'tian'guang
 十天课 shi'tian'ke
 施天诺 shi'tian'nuo
+石田彰 shi'tian'zhang
 时停刀 shi'ting'dao
 施廷懋 shi'ting'mao
 市统测 shi'tong'ce
@@ -32199,6 +32441,7 @@
 手拿开 shou'na'kai
 受难节 shou'nan'jie
 受难曲 shou'nan'qu
+受难者 shou'nan'zhe
 手抛球 shou'pao'qiu
 手捧鲜花 shou'peng'xian'hua
 手捧着鲜花 shou'peng'zhe'xian'hua
@@ -32322,6 +32565,7 @@
 舒痕胶 shu'hen'jiao
 舒洪 shu'hong
 舒红兵 shu'hong'bing
+束焕 shu'huan
 暑假档 shu'jia'dang
 暑假期间 shu'jia'qi'jian
 暑假生活指导 shu'jia'sheng'huo'zhi'dao
@@ -32387,6 +32631,7 @@
 蜀突 shu'tu
 暑退 shu'tui
 舒婉 shu'wan
+熟悉的陌生人 shu'xi'de'mo'sheng'ren
 熟悉的味道 shu'xi'de'wei'dao
 熟悉考场 shu'xi'kao'chang
 鼠仙 shu'xian
@@ -32536,6 +32781,7 @@
 双圈 shuang'quan
 双圈大满贯 shuang'quan'da'man'guan
 霜刃 shuang'ren
+双人成行 shuang'ren'cheng'xing
 双人地基 shuang'ren'di'ji
 双认定 shuang'ren'ding
 双人对战 shuang'ren'dui'zhan
@@ -32594,6 +32840,7 @@
 双召 shuang'zhao
 双子峰 shuang'zi'feng
 双子桶 shuang'zi'tong
+双子座流星雨 shuang'zi'zuo'liu'xing'yu
 双综 shuang'zong
 水芭莎 shui'ba'sha
 水爆弓 shui'bao'gong
@@ -32602,6 +32849,7 @@
 水陈 shui'chen
 水吃 shui'chi
 水池龟 shui'chi'gui
+水稻产量 shui'dao'chan'liang
 水岛努 shui'dao'nu
 水稻之父 shui'dao'zhi'fu
 睡得太死 shui'de'tai'si
@@ -32710,6 +32958,7 @@
 顺问冬安 shun'wen'dong'an
 顺序志愿 shun'xu'zhi'yuan
 顺应时代 shun'ying'shi'dai
+顺应时势 shun'ying'shi'shi
 顺应自然 shun'ying'zi'ran
 顺玉 shun'yu
 瞬狱影杀阵 shun'yu'ying'sha'zhen
@@ -32727,6 +32976,7 @@
 说唱社 shuo'chang'she
 说唱新世代 shuo'chang'xin'shi'dai
 说唱组 shuo'chang'zu
+朔尔茨 shuo'er'ci
 硕风 shuo'feng
 说和做 shuo'he'zuo
 说话不腰疼 shuo'hua'bu'yao'teng
@@ -33206,6 +33456,7 @@
 宋丽敏 song'li'min
 送礼去 song'li'qu
 宋立英 song'li'ying
+宋凉 song'liang
 送亮 song'liang
 送两张 song'liang'zhang
 宋林静 song'lin'jing
@@ -33483,6 +33734,7 @@
 酸浸 suan'jin
 蒜臼子 suan'jiu'zi
 酸科 suan'ke
+算力币 suan'li'bi
 酸芒果 suan'mang'guo
 酸奶盖 suan'nai'gai
 酸奶面膜 suan'nai'mian'mo
@@ -33532,6 +33784,7 @@
 虽然是精神病但没关系 sui'ran'shi'jing'shen'bing'dan'mei'guan'xi
 碎肉机 sui'rou'ji
 随身物品 sui'shen'wu'pin
+燧石行动 sui'shi'xing'dong
 岁岁安康 sui'sui'an'kang
 穗岁康 sui'sui'kang
 岁岁年年柿柿红 sui'sui'nian'nian'shi'shi'hong
@@ -33826,6 +34079,7 @@
 太空海盗 tai'kong'hai'dao
 太空救援 tai'kong'jiu'yuan
 太空科技 tai'kong'ke'ji
+太空课堂 tai'kong'ke'tang
 太空狼人杀 tai'kong'lang'ren'sha
 太空旅行 tai'kong'lv'xing
 太空玫瑰 tai'kong'mei'gui
@@ -33963,6 +34217,8 @@
 贪婪大陆 tan'lan'da'lu
 探秘者 tan'mi'zhe
 谭某某 tan'mou'mou
+探墓 tan'mu
+探墓笔记 tan'mu'bi'ji
 坛南湾 tan'nan'wan
 谭胖公 tan'pang'gong
 潭瀑峡 tan'pu'xia
@@ -33984,6 +34240,7 @@
 谭司令 tan'si'ling
 谈宋 tan'song
 碳酸熊卡 tan'suan'xiong'ka
+探索未来 tan'suo'wei'lai
 探索未知 tan'suo'wei'zhi
 探索中 tan'suo'zhong
 澹台烬 tan'tai'jin
@@ -34053,6 +34310,7 @@
 烫睫毛 tang'jie'mao
 汤晶媚 tang'jing'mei
 唐久便利 tang'jiu'bian'li
+唐酒卿 tang'jiu'qing
 唐九洲 tang'jiu'zhou
 唐可可 tang'ke'ke
 唐可心 tang'ke'xin
@@ -34127,6 +34385,7 @@
 淘宝互助 tao'bao'hu'zhu
 淘宝回忆杀 tao'bao'hui'yi'sha
 淘宝省钱卡 tao'bao'sheng'qian'ka
+淘宝首页 tao'bao'shou'ye
 淘宝特价 tao'bao'te'jia
 淘宝特价版 tao'bao'te'jia'ban
 淘宝心选 tao'bao'xin'xuan
@@ -34434,6 +34693,8 @@
 提升自我 ti'sheng'zi'wo
 提速降费 ti'su'jiang'fei
 体坛周报 ti'tan'zhou'bao
+惕惕 ti'ti
+惕惕后人 ti'ti'hou'ren
 提瓦特 ti'wa'te
 题王 ti'wang
 题王争霸 ti'wang'zheng'ba
@@ -34527,6 +34788,7 @@
 天更蓝 tian'geng'lan
 天工贝 tian'gong'bei
 天宫道 tian'gong'dao
+天宫课堂 tian'gong'ke'tang
 天工石 tian'gong'shi
 天狗吃月亮 tian'gou'chi'yue'liang
 天狗食日 tian'gou'shi'ri
@@ -34697,6 +34959,7 @@
 天神殿 tian'shen'dian
 天神狼 tian'shen'lang
 天神组 tian'shen'zu
+天胜村 tian'sheng'cun
 天生好看 tian'sheng'hao'kan
 天生赢家 tian'sheng'ying'jia
 天使重构 tian'shi'chong'gou
@@ -35750,6 +36013,7 @@
 玩了三天 wan'le'san'tian
 万雷天牢引 wan'lei'tian'lao'yin
 万里长江 wan'li'chang'jiang
+万里股份 wan'li'gu'fen
 万里觅封侯 wan'li'mi'feng'hou
 万里山 wan'li'shan
 万里山河 wan'li'shan'he
@@ -35936,6 +36200,7 @@
 王大中 wang'da'zhong
 望道 wang'dao
 汪道涵 wang'dao'han
+王登成 wang'deng'cheng
 王电 wang'dian
 网鼎杯 wang'ding'bei
 王东博 wang'dong'bo
@@ -35983,6 +36248,7 @@
 王会悟 wang'hui'wu
 网婚 wang'hun
 王极 wang'ji
+王继冲 wang'ji'chong
 忘记历史 wang'ji'li'shi
 汪佳翎 wang'jia'ling
 往家跑 wang'jia'pao
@@ -36364,6 +36630,7 @@
 未复查 wei'fu'cha
 微服私访记 wei'fu'si'fang'ji
 未感染 wei'gan'ran
+未敢忘 wei'gan'wang
 潍高路 wei'gao'lu
 魏公公 wei'gong'gong
 卫宫家 wei'gong'jia
@@ -36519,9 +36786,11 @@
 为你骄傲 wei'ni'jiao'ao
 为你钟情 wei'ni'zhong'qing
 微念 wei'nian
+维涅斯 wei'nie'si
 为农 wei'nong
 为农服务 wei'nong'fu'wu
 为农民 wei'nong'min
+魏牌 wei'pai
 尾七 wei'qi
 尾崎丰 wei'qi'feng
 魏奇奇 wei'qi'qi
@@ -36856,6 +37125,7 @@
 雯梓 wen'zi
 文字表达式 wen'zi'biao'da'shi
 文字博物馆 wen'zi'bo'wu'guan
+稳字当头 wen'zi'dang'tou
 文字记载 wen'zi'ji'zai
 文综理综 wen'zong'li'zong
 文综题 wen'zong'ti
@@ -37246,6 +37516,7 @@
 我候补 wo'hou'bu
 我后天开学 wo'hou'tian'kai'xue
 我后天走 wo'hou'tian'zou
+我画不出来 wo'hua'bu'chu'lai
 我会包饺子 wo'hui'bao'jiao'zi
 我会不好意思 wo'hui'bu'hao'yi'si
 我回不回 wo'hui'bu'hui
@@ -37598,6 +37869,7 @@
 我是普通人 wo'shi'pu'tong'ren
 我是如此相信 wo'shi'ru'ci'xiang'xin
 我是山姆 wo'shi'shan'mu
+我是岁月你是星辰 wo'shi'sui'yue'ni'shi'xing'chen
 我十天 wo'shi'tian
 我是土豆 wo'shi'tu'dou
 我是未成年 wo'shi'wei'cheng'nian
@@ -37732,6 +38004,7 @@
 我要买鞋 wo'yao'mai'xie
 我要买这个 wo'yao'mai'zhe'ge
 我要拿很多 wo'yao'na'hen'duo
+我要逆风去 wo'yao'ni'feng'qu
 我要抢红包 wo'yao'qiang'hong'bao
 我要去打疫苗 wo'yao'qu'da'yi'miao
 我要去看电影 wo'yao'qu'kan'dian'ying
@@ -38023,6 +38296,7 @@
 五班人 wu'ban'ren
 五包一 wu'bao'yi
 吾辈当自强 wu'bei'dang'zi'qiang
+吾辈奋进 wu'bei'fen'jin
 吾辈男儿 wu'bei'nan'er
 吾辈少年 wu'bei'shao'nian
 五杯水 wu'bei'shui
@@ -38087,6 +38361,7 @@
 舞蹈机构 wu'dao'ji'gou
 舞蹈猫 wu'dao'mao
 舞蹈模式 wu'dao'mo'shi
+五道题 wu'dao'ti
 五道峡 wu'dao'xia
 武道熊师 wu'dao'xiong'shi
 武道争锋 wu'dao'zheng'feng
@@ -38390,6 +38665,7 @@
 无面妈 wu'mian'ma
 五命 wu'ming
 无名岛 wu'ming'dao
+无名的人 wu'ming'de'ren
 无名发 wu'ming'fa
 无名分 wu'ming'fen
 无名人 wu'ming'ren
@@ -38595,6 +38871,7 @@
 五味使 wu'wei'shi
 武维扬 wu'wei'yang
 无畏战车 wu'wei'zhan'che
+无我不欢 wu'wo'bu'huan
 无我剑气 wu'wo'jian'qi
 巫舞 wu'wu
 五五节 wu'wu'jie
@@ -38604,6 +38881,7 @@
 捂捂手 wu'wu'shou
 五五折 wu'wu'zhe
 唔系 wu'xi
+悟喜 wu'xi
 无锡教育 wu'xi'jiao'yu
 无锡太湖 wu'xi'tai'hu
 吴希泽 wu'xi'ze
@@ -38741,6 +39019,7 @@
 五一特价 wu'yi'te'jia
 五一调休 wu'yi'tiao'xiu
 五一桶 wu'yi'tong
+无意外 wu'yi'wai
 五一小长假 wu'yi'xiao'chang'jia
 五一有活动 wu'yi'you'huo'dong
 五一这几天 wu'yi'zhe'ji'tian
@@ -38938,9 +39217,11 @@
 西海洪 xi'hai'hong
 羲和号 xi'he'hao
 熙和湾 xi'he'wan
+西横河 xi'heng'he
 惜红衣 xi'hong'yi
 西侯度 xi'hou'du
 洗护套装 xi'hu'tao'zhuang
+囍歡 xi'huan
 喜欢本大爷 xi'huan'ben'da'ye
 喜欢的话请响铃 xi'huan'de'hua'qing'xiang'ling
 喜欢的专业 xi'huan'de'zhuan'ye
@@ -39004,6 +39285,7 @@
 席娜 xi'na
 希娜小姐 xi'na'xiao'jie
 西奈半岛 xi'nai'ban'dao
+犀牛陂 xi'niu'bei
 西牛贺洲 xi'niu'he'zhou
 希侬 xi'nong
 希女王 xi'nv'wang
@@ -39051,6 +39333,7 @@
 系统重塑 xi'tong'chong'su
 系统公告 xi'tong'gong'gao
 系统关闭 xi'tong'guan'bi
+系统观念 xi'tong'guan'nian
 系统思维 xi'tong'si'wei
 系统维护中 xi'tong'wei'hu'zhong
 系统维修 xi'tong'wei'xiu
@@ -39089,6 +39372,7 @@
 习雪 xi'xue
 吸血泵 xi'xue'beng
 吸血魔 xi'xue'mo
+西崖底 xi'ya'di
 夕阳漫步 xi'yang'man'bu
 西伊 xi'yi
 西译 xi'yi
@@ -39118,6 +39402,7 @@
 奚缘 xi'yuan
 洗冤 xi'yuan
 西原泓郡 xi'yuan'hong'jun
+洗悦 xi'yue
 西月国 xi'yue'guo
 熙悦天街 xi'yue'tian'jie
 喜悦整形 xi'yue'zheng'xing
@@ -39214,6 +39499,7 @@
 夏季促销 xia'ji'cu'xiao
 夏季高考 xia'ji'gao'kao
 下季见 xia'ji'jian
+下集见 xia'ji'jian
 夏季套装 xia'ji'tao'zhuang
 夏季特惠 xia'ji'te'hui
 下集预告 xia'ji'yu'gao
@@ -39221,6 +39507,7 @@
 夏季作息 xia'ji'zuo'xi
 下界合金 xia'jie'he'jin
 下节啥课 xia'jie'sha'ke
+夏金兰 xia'jin'lan
 夏静怡 xia'jing'yi
 夏决 xia'jue
 下考场 xia'kao'chang
@@ -39390,6 +39677,7 @@
 线场 xian'chang
 弦长公式 xian'chang'gong'shi
 现场审核 xian'chang'shen'he
+咸潮 xian'chao
 先成家 xian'cheng'jia
 县城内 xian'cheng'nei
 先抽后付 xian'chou'hou'fu
@@ -39423,6 +39711,7 @@
 限放 xian'fang
 先放松 xian'fang'song
 献坟 xian'fen
+仙锋队 xian'feng'dui
 先锋模范作用 xian'feng'mo'fan'zuo'yong
 仙峰寺 xian'feng'si
 先富帮后富 xian'fu'bang'hou'fu
@@ -39435,10 +39724,12 @@
 先更 xian'geng
 仙姑顶 xian'gu'ding
 县管乡用 xian'guan'xiang'yong
+险过 xian'guo
 先过年 xian'guo'nian
 显赫刀剑 xian'he'dao'jian
 仙鹤股份 xian'he'gu'fen
 限户籍 xian'hu'ji
+仙湖路 xian'hu'lu
 仙湖植物园 xian'hu'zhi'wu'yuan
 纤华 xian'hua
 闲花 xian'hua
@@ -39986,6 +40277,7 @@
 小恒星 xiao'heng'xing
 小红象 xiao'hong'xiang
 小红钻 xiao'hong'zuan
+晓狐 xiao'hu
 小湖北 xiao'hu'bei
 小蝴蝶结 xiao'hu'die'jie
 小糊涂蛋 xiao'hu'tu'dan
@@ -40068,6 +40360,7 @@
 小里弗斯 xiao'li'fu'si
 孝利家民宿 xiao'li'jia'min'su
 小狸猫 xiao'li'mao
+小李朝 xiao'li'zhao
 咲恋 xiao'lian
 笑联 xiao'lian
 笑脸狗 xiao'lian'gou
@@ -40404,6 +40697,7 @@
 歇脚石 xie'jiao'shi
 谢晋元 xie'jin'yuan
 协考 xie'kao
+谢拉格 xie'la'ge
 写了多久 xie'le'duo'jiu
 谢蕾蕾 xie'lei'lei
 解立彬 xie'li'bin
@@ -40419,6 +40713,7 @@
 泄密者 xie'mi'zhe
 谢明皓 xie'ming'hao
 邪魔退散 xie'mo'tui'san
+邪魔族 xie'mo'zu
 邪眸白虎 xie'mou'bai'hu
 谢年 xie'nian
 蟹奴 xie'nu
@@ -40447,6 +40742,7 @@
 携手一生 xie'shou'yi'sheng
 携手与共 xie'shou'yu'gong
 谢丝塔 xie'si'ta
+邪特 xie'te
 谢天顺 xie'tian'shun
 谢添天 xie'tian'tian
 谢天佑 xie'tian'you
@@ -40469,6 +40765,7 @@
 写完作业没 xie'wan'zuo'ye'mei
 蝎王 xie'wang
 鞋王 xie'wang
+谢文广 xie'wen'guang
 谢汶凯 xie'wen'kai
 谢雯雯 xie'wen'wen
 谢文杨 xie'wen'yang
@@ -40511,6 +40808,7 @@
 谢谢谢谢谢 xie'xie'xie'xie'xie
 谢谢姨妈 xie'xie'yi'ma
 谢谢主播 xie'xie'zhu'bo
+谢欣桐 xie'xin'tong
 谢杏芳 xie'xing'fang
 谢旭超 xie'xu'chao
 谢易初 xie'yi'chu
@@ -40736,6 +41034,7 @@
 心里有问题 xin'li'you'wen'ti
 心理预期 xin'li'yu'qi
 心理战术 xin'li'zhan'shu
+新恋情 xin'lian'qing
 新林镇 xin'lin'zhen
 心灵宝石 xin'ling'bao'shi
 心灵传输者 xin'ling'chuan'shu'zhe
@@ -40748,6 +41047,7 @@
 新录音 xin'lu'yin
 新路子 xin'lu'zi
 新轮胎 xin'lun'tai
+新马莲 xin'ma'lian
 辛玛王国 xin'ma'wang'guo
 心茫然 xin'mang'ran
 新冒险 xin'mao'xian
@@ -40847,6 +41147,7 @@
 新生入学 xin'sheng'ru'xue
 新实 xin'shi
 新时代好少年 xin'shi'dai'hao'shao'nian
+新时代新作为 xin'shi'dai'xin'zuo'wei
 新史低 xin'shi'di
 新使命 xin'shi'ming
 辛十四娘 xin'shi'si'niang
@@ -40928,6 +41229,7 @@
 新香 xin'xiang
 心向党 xin'xiang'dang
 新乡人 xin'xiang'ren
+鑫享事诚 xin'xiang'shi'cheng
 新箱子 xin'xiang'zi
 信小呆 xin'xiao'dai
 新校园 xin'xiao'yuan
@@ -40939,6 +41241,8 @@
 心形纪念币 xin'xing'ji'nian'bi
 新型农民 xin'xing'nong'min
 新型学徒制 xin'xing'xue'tu'zhi
+新型政党 xin'xing'zheng'dang
+新型政党制度 xin'xing'zheng'dang'zhi'du
 新秀杯 xin'xiu'bei
 辛选 xin'xuan
 昕雪 xin'xue
@@ -41005,6 +41309,7 @@
 新征途 xin'zheng'tu
 新症状 xin'zheng'zhuang
 心智技能 xin'zhi'ji'neng
+心之恋语 xin'zhi'lian'yu
 心之灵 xin'zhi'ling
 心之所系 xin'zhi'suo'xi
 新职业网 xin'zhi'ye'wang
@@ -41029,6 +41334,7 @@
 新转来 xin'zhuan'lai
 新紫格 xin'zi'ge
 新总统 xin'zong'tong
+新作为 xin'zuo'wei
 行叭 xing'ba
 行吧行吧 xing'ba'xing'ba
 兴邦大计 xing'bang'da'ji
@@ -41099,6 +41405,7 @@
 星际恐龙 xing'ji'kong'long
 星际列车 xing'ji'lie'che
 星际漫游 xing'ji'man'you
+星际战士 xing'ji'zhan'shi
 兴济镇 xing'ji'zhen
 星见 xing'jian
 兴疆 xing'jiang
@@ -41517,7 +41824,9 @@
 萱草花 xuan'cao'hua
 炫车 xuan'che
 宣传海报 xuan'chuan'hai'bao
+宣德街 xuan'de'jie
 选方向 xuan'fang'xiang
+旋风劈 xuan'feng'pi
 玄凤鹦鹉 xuan'feng'ying'wu
 旋风爪 xuan'feng'zhua
 悬浮岛 xuan'fu'dao
@@ -41633,6 +41942,7 @@
 雪不大 xue'bu'da
 学不学车 xue'bu'xue'che
 学曹 xue'cao
+血偿 xue'chang
 雪车 xue'che
 薛成美 xue'cheng'mei
 血冲 xue'chong
@@ -41736,6 +42046,7 @@
 血色湘西 xue'se'xiang'xi
 血鲨 xue'sha
 学啥专业 xue'sha'zhuan'ye
+雪山精英 xue'shan'jing'ying
 雪山来客 xue'shan'lai'ke
 雪山之巅 xue'shan'zhi'dian
 薛绍 xue'shao
@@ -41747,6 +42058,7 @@
 学史 xue'shi
 血狮 xue'shi
 学师范 xue'shi'fan
+雪兽 xue'shou
 血手人屠 xue'shou'ren'tu
 学术不端 xue'shu'bu'duan
 学术网 xue'shu'wang
@@ -41855,6 +42167,7 @@
 讯飞语记 xun'fei'yu'ji
 寻果 xun'guo
 巡回检查 xun'hui'jian'cha
+寻迹长安 xun'ji'chang'an
 迅捷步伐 xun'jie'bu'fa
 迅雷云盘 xun'lei'yun'pan
 荀令君 xun'ling'jun
@@ -41936,6 +42249,7 @@
 亚丝拉琪 ya'si'la'qi
 压死骆驼 ya'si'luo'tuo
 雅思组合 ya'si'zu'he
+压岁金 ya'sui'jin
 压祟钱 ya'sui'qian
 压缩干粮 ya'suo'gan'liang
 亚太第一 ya'tai'di'yi
@@ -41988,6 +42302,8 @@
 颜丙涛 yan'bing'tao
 延播 yan'bo
 淹不到 yan'bu'dao
+盐不浪 yan'bu'lang
+盐不浪的卧室 yan'bu'lang'de'wo'shi
 燕菜 yan'cai
 延长假期 yan'chang'jia'qi
 延长时间 yan'chang'shi'jian
@@ -42020,6 +42336,7 @@
 研发人员 yan'fa'ren'yuan
 严防严控 yan'fang'yan'kong
 烟绯 yan'fei
+焰分噬浪尺 yan'fen'shi'lang'chi
 严格管控 yan'ge'guan'kong
 严格限制 yan'ge'xian'zhi
 严格执法 yan'ge'zhi'fa
@@ -42081,6 +42398,7 @@
 炎喵 yan'miao
 雁鸣蟹岛 yan'ming'xie'dao
 阎魔亭 yan'mo'ting
+研木易 yan'mu'yi
 延南洞 yan'nan'dong
 延南洞吻神 yan'nan'dong'wen'shen
 颜妮 yan'ni
@@ -42415,6 +42733,7 @@
 杨子为 yang'zi'wei
 羊子巷 yang'zi'xiang
 杨梓鑫 yang'zi'xin
+杨宗凯 yang'zong'kai
 要爱自己 yao'ai'zi'ji
 姚安娜 yao'an'na
 要拔 yao'ba
@@ -42464,6 +42783,7 @@
 要带回家 yao'dai'hui'jia
 要带回来 yao'dai'hui'lai
 要带回去 yao'dai'hui'qu
+要带头 yao'dai'tou
 要戴头盔 yao'dai'tou'kui
 要带作业 yao'dai'zuo'ye
 要到场 yao'dao'chang
@@ -42779,6 +43099,7 @@
 野花不要采 ye'hua'bu'yao'cai
 夜皇后 ye'huang'hou
 野火帮 ye'huo'bang
+野鸡奖 ye'ji'jiang
 爷家 ye'jia
 叶家辉 ye'jia'hui
 叶建春 ye'jian'chun
@@ -42812,11 +43133,13 @@
 野米饭 ye'mi'fan
 页面显示 ye'mian'xian'shi
 夜楠 ye'nan
+夜闹 ye'nao
 夜排 ye'pai
 叶飘飘 ye'piao'piao
 叶坪 ye'ping
 也平凡 ye'ping'fan
 夜魄 ye'po
+夜骐 ye'qi
 叶琦菲 ye'qi'fei
 野崎君 ye'qi'jun
 夜骑士 ye'qi'shi
@@ -42830,6 +43153,7 @@
 叶青云 ye'qing'yun
 野球帝 ye'qiu'di
 叶全真 ye'quan'zhen
+叶三天 ye'san'tian
 夜色暗涌 ye'se'an'yong
 夜色暗涌时 ye'se'an'yong'shi
 夜色行 ye'se'xing
@@ -42840,12 +43164,14 @@
 夜市人生 ye'shi'ren'sheng
 野兽先辈 ye'shou'xian'bei
 叶舒华 ye'shu'hua
+爷四 ye'si
 野肆 ye'si
 耶斯莫拉 ye'si'mo'la
 叶宋 ye'song
 夜宿门 ye'su'men
 叶索 ye'suo
 液态玻璃 ye'tai'bo'li
+夜太黑 ye'tai'hei
 夜摊 ye'tan
 夜昙 ye'tan
 野田昊 ye'tian'hao
@@ -43514,6 +43840,7 @@
 一起聊聊 yi'qi'liao'liao
 一起去旅行 yi'qi'qu'lv'xing
 一起去爬山 yi'qi'qu'pa'shan
+一起去未来 yi'qi'qu'wei'lai
 一起上岸 yi'qi'shang'an
 一起上分 yi'qi'shang'fen
 一起上书房 yi'qi'shang'shu'fang
@@ -43676,6 +44003,7 @@
 一挑二 yi'tiao'er
 一条裤 yi'tiao'ku
 一条秋裤 yi'tiao'qiu'ku
+驿亭 yi'ting
 一同成长 yi'tong'cheng'zhang
 移通学院 yi'tong'xue'yuan
 已投挡 yi'tou'dang
@@ -43702,6 +44030,7 @@
 一完小 yi'wan'xiao
 亿万星辰不及你 yi'wan'xing'chen'bu'ji'ni
 一万亿 yi'wan'yi
+伊王 yi'wang
 遗忘草 yi'wang'cao
 遗忘方舟 yi'wang'fang'zhou
 奕薇 yi'wei
@@ -43743,6 +44072,7 @@
 一心一力 yi'xin'yi'li
 壹心娱乐 yi'xin'yu'le
 移形换位 yi'xing'huan'wei
+翼星求生 yi'xing'qiu'sheng
 异星神 yi'xing'shen
 异星灾变 yi'xing'zai'bian
 易修罗 yi'xiu'luo
@@ -43780,6 +44110,7 @@
 依依东望 yi'yi'dong'wang
 一亿多人 yi'yi'duo'ren
 一衣红雪 yi'yi'hong'xue
+意义深远 yi'yi'shen'yuan
 一亿像素 yi'yi'xiang'su
 一亿只 yi'yi'zhi
 易易紫 yi'yi'zi
@@ -44031,6 +44362,7 @@
 尹烨 yin'ye
 殷野王 yin'ye'wang
 银影侠 yin'ying'xia
+殷涌智 yin'yong'zhi
 音有爱 yin'you'ai
 引玉 yin'yu
 姻缘测试 yin'yuan'ce'shi
@@ -44100,6 +44432,7 @@
 英汉词典 ying'han'ci'dian
 英豪令 ying'hao'ling
 硬核亨利 ying'he'heng'li
+樱河琥珀 ying'he'hu'po
 赢合科技 ying'he'ke'ji
 硬核力量 ying'he'li'liang
 婴猴 ying'hou
@@ -44135,6 +44468,7 @@
 英爵伦 ying'jue'lun
 英可瑞 ying'ke'rui
 樱狼 ying'lang
+影郎丸 ying'lang'wan
 樱莲 ying'lian
 英莲 ying'lian
 英联杯 ying'lian'bei
@@ -44179,6 +44513,7 @@
 樱桃毕罗 ying'tao'bi'luo
 樱桃炸 ying'tao'zha
 樱桃炸弹 ying'tao'zha'dan
+樱桃汁 ying'tao'zhi
 英特集团 ying'te'ji'tuan
 莺啼 ying'ti
 樱田 ying'tian
@@ -44270,6 +44605,7 @@
 永葆初心 yong'bao'chu'xin
 拥抱过后 yong'bao'guo'hou
 永葆活力 yong'bao'huo'li
+拥抱情人节 yong'bao'qing'ren'jie
 永葆清正廉洁 yong'bao'qing'zheng'lian'jie
 拥抱世界 yong'bao'shi'jie
 永葆童心 yong'bao'tong'xin
@@ -44297,6 +44633,7 @@
 永不停播 yong'bu'ting'bo
 永不停止 yong'bu'ting'zhi
 永不褪色 yong'bu'tui'shai
+永不忘 yong'bu'wang
 永不五杀 yong'bu'wu'sha
 永不熄灭 yong'bu'xi'mie
 永不相忘 yong'bu'xiang'wang
@@ -44514,6 +44851,8 @@
 有怪兽 you'guai'shou
 有观众 you'guan'zhong
 有光驱 you'guang'qu
+幽光山洞 you'guang'shan'dong
+油鬼子 you'gui'zi
 有国 you'guo
 柚果 you'guo
 游郭 you'guo
@@ -44551,6 +44890,7 @@
 有悔 you'hui
 游回去 you'hui'qu
 幽魂法师 you'hun'fa'shi
+友活 you'huo
 有活动不 you'huo'dong'bu
 友肌 you'ji
 有几个班 you'ji'ge'ban
@@ -44563,6 +44903,7 @@
 邮寄票 you'ji'piao
 邮寄选票 you'ji'xuan'piao
 有积雪 you'ji'xue
+有记忆 you'ji'yi
 有记者 you'ji'zhe
 有驾 you'jia
 有家不能回 you'jia'bu'neng'hui
@@ -44629,6 +44970,7 @@
 有落差 you'luo'cha
 有马贵将 you'ma'gui'jiang
 有妈就有家 you'ma'jiu'you'jia
+幽脉 you'mai
 优漫 you'man
 有满减 you'man'jian
 优漫卡通 you'man'ka'tong
@@ -44999,6 +45341,7 @@
 雨花谷 yu'hua'gu
 鱼皇 yu'huang
 渝汇 yu'hui
+渝惠保 yu'hui'bao
 玉魂师 yu'hun'shi
 狱火 yu'huo
 浴火成诗 yu'huo'cheng'shi
@@ -45079,6 +45422,7 @@
 育民小学 yu'min'xiao'xue
 余明君 yu'ming'jun
 余墨 yu'mo
+御模道 yu'mo'dao
 御木本 yu'mu'ben
 郁慕明 yu'mu'ming
 余沐阳 yu'mu'yang
@@ -45155,6 +45499,7 @@
 玉天心 yu'tian'xin
 羽田秀吉 yu'tian'xiu'ji
 雨挺大 yu'ting'da
+鱼头人 yu'tou'ren
 于途 yu'tu
 余途 yu'tu
 玉兔捣药 yu'tu'dao'yao
@@ -45234,6 +45579,7 @@
 于英杰 yu'ying'jie
 俞永镇 yu'yong'zhen
 于幼军 yu'you'jun
+鱼幼薇 yu'you'wei
 余宇涵 yu'yu'han
 郁郁青青 yu'yu'qing'qing
 余玉贤 yu'yu'xian
@@ -45333,6 +45679,7 @@
 元旦作业 yuan'dan'zuo'ye
 元道经纬 yuan'dao'jing'wei
 原地出道 yuan'di'chu'dao
+原地过年 yuan'di'guo'nian
 原地解散 yuan'di'jie'san
 园丁们 yuan'ding'men
 远东大厦 yuan'dong'da'sha
@@ -45555,8 +45902,10 @@
 月桂狗 yue'gui'gou
 越过越红火 yue'guo'yue'hong'huo
 越涵 yue'han
+约翰拉贝 yue'han'la'bei
 约翰斯顿 yue'han'si'dun
 月禾 yue'he
+粤核酸 yue'he'suan
 越喝越年轻 yue'he'yue'nian'qing
 越喝越有 yue'he'yue'you
 月华君 yue'hua'jun
@@ -45603,6 +45952,7 @@
 月亮饮 yue'liang'yin
 月亮圆 yue'liang'yuan
 月亮月亮 yue'liang'yue'liang
+跃岭 yue'ling
 岳龙刚 yue'long'gang
 越马 yue'ma
 越买越多 yue'mai'yue'duo
@@ -45687,6 +46037,7 @@
 月之羽姬 yue'zhi'yu'ji
 月中桂 yue'zhong'gui
 月中眠 yue'zhong'mian
+月昼 yue'zhou
 悦作业 yue'zuo'ye
 云巴 yun'ba
 云拜年 yun'bai'nian
@@ -45719,6 +46070,7 @@
 运动员们 yun'dong'yuan'men
 孕肚 yun'du
 云端梦境 yun'duan'meng'jing
+云端烟火 yun'duan'yan'huo
 云端之上 yun'duan'zhi'shang
 云端之约 yun'duan'zhi'yue
 云端筑梦师 yun'duan'zhu'meng'shi
@@ -46336,6 +46688,7 @@
 张壁古堡 zhang'bi'gu'bao
 张妼晗 zhang'bi'han
 张博恒 zhang'bo'heng
+张柏澜 zhang'bo'lan
 涨不动 zhang'bu'dong
 张才人 zhang'cai'ren
 张长弓 zhang'chang'gong
@@ -46437,8 +46790,10 @@
 张明瑾 zhang'ming'jin
 张铭阳 zhang'ming'yang
 张明忠 zhang'ming'zhong
+张墨怀 zhang'mo'huai
 章末检测 zhang'mo'jian'ce
 张嬷嬷 zhang'mo'mo
+张慕童 zhang'mu'tong
 张娘子 zhang'niang'zi
 张培萌 zhang'pei'meng
 张屏 zhang'ping
@@ -46449,6 +46804,7 @@
 张庆黎 zhang'qing'li
 张琼予 zhang'qiong'yu
 章丘大葱 zhang'qiu'da'cong
+掌秋使 zhang'qiu'shi
 章丘铁锅 zhang'qiu'tie'guo
 张人民 zhang'ren'min
 涨人气 zhang'ren'qi
@@ -46510,6 +46866,7 @@
 张欣尧 zhang'xin'yao
 张兴嘉 zhang'xing'jia
 张星特 zhang'xing'te
+张修齐 zhang'xiu'qi
 张修维 zhang'xiu'wei
 张旭豪 zhang'xu'hao
 章轩 zhang'xuan
@@ -46759,6 +47116,7 @@
 赵云新皮肤 zhao'yun'xin'pi'fu
 照在了大地上 zhao'zai'le'da'di'shang
 赵兆 zhao'zhao
+昭昭前事 zhao'zhao'qian'shi
 朝朝夕夕 zhao'zhao'xi'xi
 赵昭仪 zhao'zhao'yi
 赵震北 zhao'zhen'bei
@@ -47610,6 +47968,7 @@
 智者不入爱河 zhi'zhe'bu'ru'ai'he
 至臻版 zhi'zhen'ban
 至臻剑魔 zhi'zhen'jian'mo
+至臻商店 zhi'zhen'shang'dian
 至臻亚索 zhi'zhen'ya'suo
 知政 zhi'zheng
 止止 zhi'zhi
@@ -47657,6 +48016,7 @@
 重本率 zhong'ben'lv
 中币 zhong'bi
 钟表铺 zhong'biao'pu
+中冰 zhong'bing
 重兵器 zhong'bing'qi
 中播网 zhong'bo'wang
 中布 zhong'bu
@@ -47682,6 +48042,7 @@
 重大消息 zhong'da'xiao'xi
 重大疫情 zhong'da'yi'qing
 重大意义 zhong'da'yi'yi
+中大银泰 zhong'da'yin'tai
 中等收入 zhong'deng'shou'ru
 种地人 zhong'di'ren
 种点菜 zhong'dian'cai
@@ -47711,6 +48072,8 @@
 中广天择 zhong'guang'tian'ze
 种鬼 zhong'gui
 中国奥运 zhong'guo'ao'yun
+中国报道 zhong'guo'bao'dao
+中国报道网 zhong'guo'bao'dao'wang
 中国北斗 zhong'guo'bei'dou
 中国必胜 zhong'guo'bi'sheng
 中国裁判 zhong'guo'cai'pan
@@ -47743,6 +48106,7 @@
 中国海军 zhong'guo'hai'jun
 中国航天 zhong'guo'hang'tian
 中国航天日 zhong'guo'hang'tian'ri
+中国红厂房 zhong'guo'hong'chang'fang
 中国剑 zhong'guo'jian
 中国骄傲 zhong'guo'jiao'ao
 中国教师 zhong'guo'jiao'shi
@@ -47776,6 +48140,8 @@
 中国外交 zhong'guo'wai'jiao
 中国玩家 zhong'guo'wan'jia
 中国网友 zhong'guo'wang'you
+中国物流 zhong'guo'wu'liu
+中国西部 zhong'guo'xi'bu
 中国消防 zhong'guo'xiao'fang
 中国效率 zhong'guo'xiao'lv
 中国芯 zhong'guo'xin
@@ -48003,6 +48369,7 @@
 中央国家 zhong'yang'guo'jia
 中央红军 zhong'yang'hong'jun
 中央机关 zhong'yang'ji'guan
+中央经济 zhong'yang'jing'ji
 中央局 zhong'yang'ju
 中央陆军 zhong'yang'lu'jun
 中央人民 zhong'yang'ren'min
@@ -48087,6 +48454,7 @@
 周江勇 zhou'jiang'yong
 周教 zhou'jiao
 周金明 zhou'jin'ming
+周倦 zhou'juan
 周均 zhou'jun
 周筠 zhou'jun
 周君怡 zhou'jun'yi
@@ -48403,6 +48771,8 @@
 猪肉白菜 zhu'rou'bai'cai
 猪肉摊 zhu'rou'tan
 猪肉粽 zhu'rou'zong
+朱獳 zhu'ru
+朱单伟 zhu'shan'wei
 主摄 zhu'she
 猪肾 zhu'shen
 诸神的黄昏 zhu'shen'de'huang'hun
@@ -48515,6 +48885,7 @@
 猪猪杯 zhu'zhu'bei
 猪猪公寓 zhu'zhu'gong'yu
 猪猪锅 zhu'zhu'guo
+猪猪辉 zhu'zhu'hui
 祝著节 zhu'zhu'jie
 烛子 zhu'zi
 竺子 zhu'zi
@@ -48771,6 +49142,7 @@
 自动售卖机 zi'dong'shou'mai'ji
 自动跳过 zi'dong'tiao'guo
 紫斗 zi'dou
+自罚两杯 zi'fa'liang'bei
 自罚一杯 zi'fa'yi'bei
 自费隔离 zi'fei'ge'li
 资格复审 zi'ge'fu'shen
@@ -48817,6 +49189,7 @@
 自救系统 zi'jiu'xi'tong
 紫爵 zi'jue
 紫爵士 zi'jue'shi
+自觉守法 zi'jue'shou'fa
 自考树 zi'kao'shu
 自夸小队 zi'kua'xiao'dui
 自来桥 zi'lai'qiao
@@ -48841,6 +49214,7 @@
 自拍视频 zi'pai'shi'pin
 紫皮大蒜 zi'pi'da'suan
 紫皮蒜 zi'pi'suan
+紫票 zi'piao
 紫瓶 zi'ping
 资丘 zi'qiu
 紫圈 zi'quan
@@ -48885,6 +49259,7 @@
 紫溪山 zi'xi'shan
 仔细阅读 zi'xi'yue'du
 自相逢 zi'xiang'feng
+自小语 zi'xiao'yu
 籽蟹 zi'xie
 自信起来 zi'xin'qi'lai
 自信自强 zi'xin'zi'qiang
@@ -49236,7 +49611,9 @@
 最后一月 zui'hou'yi'yue
 最佳编剧 zui'jia'bian'ju
 最佳第六人 zui'jia'di'liu'ren
+最佳浪漫 zui'jia'lang'man
 最佳球员 zui'jia'qiu'yuan
+最佳手游 zui'jia'shou'you
 最佳新人 zui'jia'xin'ren
 最佳新秀 zui'jia'xin'xiu
 最佳演员 zui'jia'yan'yuan
@@ -49247,6 +49624,7 @@
 最紧张 zui'jin'zhang
 醉今朝 zui'jin'zhao
 醉酒歌 zui'jiu'ge
+最可靠 zui'ke'kao
 最酷的世界 zui'ku'de'shi'jie
 最亏欠 zui'kui'qian
 最冷的 zui'leng'de
@@ -49336,6 +49714,7 @@
 尊老敬老 zun'lao'jing'lao
 尊老卡 zun'lao'ka
 尊木汇 zun'mu'hui
+遵守法律 zun'shou'fa'lv
 尊贤 zun'xian
 尊像 zun'xiang
 尊医 zun'yi
@@ -49386,6 +49765,7 @@
 做冬至 zuo'dong'zhi
 做儿女 zuo'er'nv
 做法事 zuo'fa'shi
+左棻 zuo'fen
 做封面 zuo'feng'mian
 作风问题 zuo'feng'wen'ti
 做个参考 zuo'ge'can'kao
