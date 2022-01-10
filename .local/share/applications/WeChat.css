@@ -1,6 +1,45 @@
 .main_inner {
     -webkit-border-radius: 0 !important;
 }
+
+.dropdown_menu li a {
+    border-bottom: 0px !important;
+}
+
+.recommendation .contact_item {
+    border-bottom: 0px !important;
+}
+
+.tab .tab_item::after {
+    border-right: 0px !important;
+}
+
+.tab::after {
+    border-bottom: 0px !important;
+}
+
+.chat_item {
+    border-bottom: 0px !important;
+}
+
+.read_item {
+    border-bottom: 0px !important;
+}
+
+.contact_list .contact_item {
+    border-bottom: 0px !important;
+}
+
+.qq_face a {
+    border-bottom: 0px !important;
+    border-right: 0px !important;
+}
+
+.emoji_face a {
+    border-bottom: 0px !important;
+    border-right: 0px !important;
+}
+
 .web_wechat_screencut {
     display: none !important;
 }
