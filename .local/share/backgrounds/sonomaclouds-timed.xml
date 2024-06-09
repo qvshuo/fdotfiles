@@ -1,0 +1,210 @@
+<background>
+    <starttime>
+        <year>2024</year>
+        <month>06</month>
+        <day>01</day>
+        <hour>00</hour>
+        <minute>00</minute>
+        <second>00</second>
+    </starttime>
+
+    <static>
+        <duration>3600</duration>
+        <file>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0001.jpg</file>
+    </static>
+    <transition type="overlay">
+        <duration>5</duration>
+        <from>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0001.jpg</from>
+        <to>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0002.jpg</to>
+    </transition>
+
+    <static>
+        <duration>3600</duration>
+        <file>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0002.jpg</file>
+    </static>
+    <transition type="overlay">
+        <duration>5</duration>
+        <from>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0002.jpg</from>
+        <to>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0003.jpg</to>
+    </transition>
+
+    <static>
+        <duration>3600</duration>
+        <file>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0003.jpg</file>
+    </static>
+    <transition type="overlay">
+        <duration>5</duration>
+        <from>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0003.jpg</from>
+        <to>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0004.jpg</to>
+    </transition>
+
+    <static>
+        <duration>3600</duration>
+        <file>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0004.jpg</file>
+    </static>
+    <transition type="overlay">
+        <duration>5</duration>
+        <from>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0004.jpg</from>
+        <to>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0005.jpg</to>
+    </transition>
+
+    <static>
+        <duration>3600</duration>
+        <file>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0005.jpg</file>
+    </static>
+    <transition type="overlay">
+        <duration>5</duration>
+        <from>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0005.jpg</from>
+        <to>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0006.jpg</to>
+    </transition>
+
+    <static>
+        <duration>3600</duration>
+        <file>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0006.jpg</file>
+    </static>
+    <transition type="overlay">
+        <duration>5</duration>
+        <from>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0006.jpg</from>
+        <to>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0007.jpg</to>
+    </transition>
+
+    <static>
+        <duration>3600</duration>
+        <file>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0007.jpg</file>
+    </static>
+    <transition type="overlay">
+        <duration>5</duration>
+        <from>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0007.jpg</from>
+        <to>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0008.jpg</to>
+    </transition>
+
+    <static>
+        <duration>3600</duration>
+        <file>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0008.jpg</file>
+    </static>
+    <transition type="overlay">
+        <duration>5</duration>
+        <from>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0008.jpg</from>
+        <to>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0009.jpg</to>
+    </transition>
+
+    <static>
+        <duration>3600</duration>
+        <file>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0009.jpg</file>
+    </static>
+    <transition type="overlay">
+        <duration>5</duration>
+        <from>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0009.jpg</from>
+        <to>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0010.jpg</to>
+    </transition>
+
+    <static>
+        <duration>3600</duration>
+        <file>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0010.jpg</file>
+    </static>
+    <transition type="overlay">
+        <duration>5</duration>
+        <from>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0010.jpg</from>
+        <to>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0011.jpg</to>
+    </transition>
+
+    <static>
+        <duration>3600</duration>
+        <file>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0011.jpg</file>
+    </static>
+    <transition type="overlay">
+        <duration>5</duration>
+        <from>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0011.jpg</from>
+        <to>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0012.jpg</to>
+    </transition>
+
+    <static>
+        <duration>3600</duration>
+        <file>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0012.jpg</file>
+    </static>
+    <transition type="overlay">
+        <duration>5</duration>
+        <from>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0012.jpg</from>
+        <to>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0013.jpg</to>
+    </transition>
+
+    <static>
+        <duration>3600</duration>
+        <file>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0013.jpg</file>
+    </static>
+    <transition type="overlay">
+        <duration>5</duration>
+        <from>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0013.jpg</from>
+        <to>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0014.jpg</to>
+    </transition>
+
+    <static>
+        <duration>3600</duration>
+        <file>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0014.jpg</file>
+    </static>
+    <transition type="overlay">
+        <duration>5</duration>
+        <from>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0014.jpg</from>
+        <to>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0015.jpg</to>
+    </transition>
+
+    <static>
+        <duration>3600</duration>
+        <file>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0015.jpg</file>
+    </static>
+    <transition type="overlay">
+        <duration>5</duration>
+        <from>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0015.jpg</from>
+        <to>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0016.jpg</to>
+    </transition>
+
+    <static>
+        <duration>3600</duration>
+        <file>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0016.jpg</file>
+    </static>
+    <transition type="overlay">
+        <duration>5</duration>
+        <from>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0016.jpg</from>
+        <to>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0017.jpg</to>
+    </transition>
+
+    <static>
+        <duration>3600</duration>
+        <file>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0017.jpg</file>
+    </static>
+    <transition type="overlay">
+        <duration>5</duration>
+        <from>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0017.jpg</from>
+        <to>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0018.jpg</to>
+    </transition>
+
+    <static>
+        <duration>3600</duration>
+        <file>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0018.jpg</file>
+    </static>
+    <transition type="overlay">
+        <duration>5</duration>
+        <from>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0018.jpg</from>
+        <to>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0019.jpg</to>
+    </transition>
+
+    <static>
+        <duration>3600</duration>
+        <file>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0019.jpg</file>
+    </static>
+    <transition type="overlay">
+        <duration>5</duration>
+        <from>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0019.jpg</from>
+        <to>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0020.jpg</to>
+    </transition>
+
+    <static>
+        <duration>3600</duration>
+        <file>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0020.jpg</file>
+    </static>
+    <transition type="overlay">
+        <duration>5</duration>
+        <from>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0020.jpg</from>
+        <to>/home/anjing/.local/share/backgrounds/sonomaclouds-timed/sonomaclouds_0001.jpg</to>
+    </transition>
+</background>

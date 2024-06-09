@@ -1,8 +1,0 @@
-[Unit]
-Description=Caddy
-
-[Service]
-ExecStart=/home/huizhi/Desktop/Caddy/caddy file-server --browse --listen :8096 --root /run/media/Data/ありがとうございました/
-
-[Install]
-WantedBy=default.target
