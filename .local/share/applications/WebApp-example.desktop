@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=应用程序的名称
+Comment=应用程序的简短描述或注释
+Exec=sh -c 'XAPP_FORCE_GTKWINDOW_ICON="/path/to/icon" firefox --class WebApp-名称1234 --name WebApp-名称1234 --profile /var/home/anjing/.local/share/ice/firefox/名称1234 --no-remote "https://www.youtube.com"'
+Terminal=false
+Type=Application
+Icon=/path/to/icon
+Categories=GTK;WebApps;Internet;Accessories;Games;Graphics;Office;Sound & Video;Programming;Education;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-名称1234
+StartupNotify=true
+

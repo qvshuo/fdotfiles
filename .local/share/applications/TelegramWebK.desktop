@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Telegram
+Comment=Telegram Web K
+Exec=sh -c 'XAPP_FORCE_GTKWINDOW_ICON="TelegramWebK" firefox --class TelegramWebK0619 --name TelegramWebK0619 --profile /var/home/anjing/.local/share/ice/firefox/TelegramWebK0619 --no-remote "https://web.telegram.org/k"'
+Terminal=false
+Type=Application
+Icon=TelegramWebK
+Categories=GTK;WebApps;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=TelegramWebK0619
+StartupNotify=true
+
