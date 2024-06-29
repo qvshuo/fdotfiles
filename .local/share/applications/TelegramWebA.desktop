@@ -1,13 +1,8 @@
 [Desktop Entry]
-Version=1.0
 Name=Telegram
-Comment=Telegram Web A
-Exec=sh -c 'XAPP_FORCE_GTKWINDOW_ICON="TelegramWebA" firefox --class TelegramWebA0626 --name TelegramWebA0626 --profile /var/home/anjing/.local/share/ice/firefox/TelegramWebA0626 --no-remote "https://web.telegram.org/a"'
+Exec=chromium-browser --app=https://web.telegram.org/a --user-data-dir=/var/home/anjing/.config/chromium/TelegramWebA --class=TelegramWebA
 Terminal=false
 Type=Application
 Icon=TelegramWebA
-Categories=GTK;WebApps;
-MimeType=text/html;text/xml;application/xhtml_xml;
-StartupWMClass=TelegramWebA0626
-StartupNotify=true
-
+StartupWMClass=TelegramWebA
+Categories=Community;

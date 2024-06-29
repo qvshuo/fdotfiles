@@ -1,13 +1,8 @@
 [Desktop Entry]
-Version=1.0
 Name=Craft
-Comment=The Future of Documents.
-Exec=sh -c 'XAPP_FORCE_GTKWINDOW_ICON="Craft" firefox --class WebApp-Craft0619 --name WebApp-Craft0619 --profile /var/home/anjing/.local/share/ice/firefox/Craft0619 --no-remote "https://docs.craft.do/recents"'
+Exec=chromium-browser --app=https://docs.craft.do --user-data-dir=/var/home/anjing/.config/chromium/Craft --class=Craft
 Terminal=false
 Type=Application
 Icon=Craft
-Categories=GTK;WebApps;
-MimeType=text/html;text/xml;application/xhtml_xml;
-StartupWMClass=WebApp-Craft0619
-StartupNotify=true
-
+StartupWMClass=Craft
+Categories=Office;
