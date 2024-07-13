@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=Telegram
-Exec=chromium-browser --app=https://web.telegram.org/a --user-data-dir=/var/home/anjing/.config/chromium/TelegramWebA --class=TelegramWebA
-Terminal=false
-Type=Application
-Icon=TelegramWebA
-StartupWMClass=TelegramWebA
-Categories=Community;
