@@ -6,3 +6,9 @@ Type=Application
 Icon=TelegramWebK
 StartupWMClass=TelegramWebK
 Categories=Community;
+Actions=Alt
+
+[Desktop Action Alt]
+Name=Switch Account
+Exec=chromium-browser --app=https://web.telegram.org/k --user-data-dir=/var/home/anjing/.config/chromium/TelegramWebKAlt --class=TelegramWebK
+
