@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=Craft
-Exec=chromium-browser --app=https://docs.craft.do --user-data-dir=/var/home/anjing/.config/chromium/Craft --class=Craft
-Terminal=false
-Type=Application
-Icon=Craft
-StartupWMClass=Craft
-Categories=Office;
